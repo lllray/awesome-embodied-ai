@@ -1,11 +1,11 @@
-# Daily Report 2026-03-01
+# Daily Report 2026-03-02
 - Repo: Awesome Embodied AI
-- New today: 3112 | Total: 3112 | Stars: 2,333,505
+- New today: 97 | Total: 3209 | Stars: 2,412,927
 - Link: https://github.com/lllray/awesome-embodied-a
 
-## Top 5 New
-1. [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 441,523⭐ — 😎 Awesome lists about all kinds of interesting topics
-2. [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) 71,775⭐ — A curated list of awesome Machine Learning frameworks, libraries and software.
-3. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 70,768⭐ — Protocol Buffers - Google's data interchange format
-4. [localstack/localstack](https://github.com/localstack/localstack) 64,509⭐ — 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Server
-5. [coqui-ai/TTS](https://github.com/coqui-ai/TTS) 44,673⭐ — 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and p
+## Top 5 Trending
+1. [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) +13⭐ — [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
+2. [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0) +12⭐ — v0 of Asimov, an open-source humanoid robot
+3. [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) +11⭐ — Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world eva
+4. [mudler/LocalAI](https://github.com/mudler/LocalAI) +8⭐ — :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hos
+5. [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) +6⭐ — Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for develo

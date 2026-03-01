@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
+<rect width="718" height="718" rx="10" fill="#ffffff"/>
+<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 每日热门 (2026-03-02)</text>
+<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">项目</text>
+<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 日增</text>
+<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">描述</text>
+<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">TianxingChen/Embodied-AI-...</text>
+<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">12,082</text>
+<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+13</text>
+<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">具身智能技术指南 实体人工智能指南</text>
+<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">asimovinc/asimov-v0</text>
+<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">369</text>
+<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+12</text>
+<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">作为一个开源的人类机器人,</text>
+<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">dreamzero0/dreamzero</text>
+<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">957</text>
+<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+11</text>
+<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">编码预训练,调整和评估DreamZe</text>
+<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">ro并运行真实世界评估</text>
+<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">mudler/LocalAI</text>
+<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">43,165</text>
+<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+8</text>
+<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">:robot:是免费的,开源替代的O</text>
+<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">penAI,Claude和其他.自主</text>
+<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">NVlabs/GR00T-WholeBodyCon...</text>
+<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">972</text>
+<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+6</text>
+<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">欢迎来到 GR00T全身控制</text>
+<text x="561.0" y="294" text-anchor="middle" fill="#000000" font-size="11">(WBC) 网站!这是开发和部署先进的人类</text>
+<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">RLinf/RLinf</text>
+<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">2,595</text>
+<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+4</text>
+<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">强化体现和代理人工智能学习基础设施</text>
+<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">WenjiaWang0312/EmbodMocap</text>
+<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">60</text>
+<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+4</text>
+<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11">[CVPR 2026]</text>
+<text x="561.0" y="386" text-anchor="middle" fill="#000000" font-size="11">嵌体图:在野外4D人类场景重建,用于嵌体代理</text>
+<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">huggingface/lerobot</text>
+<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">21,882</text>
+<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+3</text>
+<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">🤗 LeRobot:通过端到端学习,</text>
+<text x="561.0" y="432" text-anchor="middle" fill="#000000" font-size="11">使人工智能更容易获得机器人</text>
+<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">isaac-sim/IsaacLab</text>
+<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">6,454</text>
+<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+3</text>
+<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">基于NVIDIA Isaac</text>
+<text x="561.0" y="478" text-anchor="middle" fill="#000000" font-size="11">Sim的机器人学习的统一框架</text>
+<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">OpenDriveLab/WholebodyVLA</text>
+<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">263</text>
+<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+3</text>
+<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">[ICLR 2026]</text>
+<text x="561.0" y="524" text-anchor="middle" fill="#000000" font-size="11">实现全身化控制的统一隐形VLA</text>
+<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<a xlink:href="https://github.com/lllray/awesome-embodied-a"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-embodied-a</text></a>
+</svg>
