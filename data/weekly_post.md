@@ -1,11 +1,11 @@
-# Weekly Report 2026-03-20
+# Weekly Report 2026-03-27
 - Repo: Awesome Embodied AI
-- New: 79 | Total: 3334 | Stars: 2,495,570
+- New: 95 | Total: 3383 | Stars: 2,503,994
 - Link: https://github.com/lllray/awesome-embodied-a
 
 ## Top 5 Trending
 1. [mudler/LocalAI](https://github.com/mudler/LocalAI) +544⭐ — :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hos
-2. [huggingface/lerobot](https://github.com/huggingface/lerobot) +233⭐ — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-3. [NVlabs/PointWorld](https://github.com/NVlabs/PointWorld) +131⭐ — PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation
-4. [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) +129⭐ — Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world eva
-5. [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) +98⭐ — Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for develo
+2. [huggingface/lerobot](https://github.com/huggingface/lerobot) +206⭐ — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+3. [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) +124⭐ — Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world eva
+4. [gaolongsen/GFVLA_CBF](https://github.com/gaolongsen/GFVLA_CBF) +93⭐ — 🤖🧠🇦🇮👾 Graph VLA with Control Barrier Function in Dual-Arm Robotics Manipulation
+5. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) +84⭐ — An open and affordable mini quadruped robot based on ESP32.
