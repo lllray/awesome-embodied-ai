@@ -1,0 +1,358 @@
+{
+  "date": "2026-04-03",
+  "total_skills": 3415,
+  "total_stars": 2510167,
+  "new_today": 32,
+  "top_gainers": [
+    {
+      "name": "mudler/LocalAI",
+      "stars": 44075,
+      "delta": 544,
+      "url": "https://github.com/mudler/LocalAI",
+      "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+    },
+    {
+      "name": "capgym/cap-x",
+      "stars": 257,
+      "delta": 233,
+      "url": "https://github.com/capgym/cap-x",
+      "description": "A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation"
+    },
+    {
+      "name": "louiszengCN/CarlaAir",
+      "stars": 308,
+      "delta": 191,
+      "url": "https://github.com/louiszengCN/CarlaAir",
+      "description": "CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure for Air-Ground Embodied Intelligence"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": 22899,
+      "delta": 184,
+      "url": "https://github.com/huggingface/lerobot",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "FlagOpen/Robo-Dopamine",
+      "stars": 336,
+      "delta": 143,
+      "url": "https://github.com/FlagOpen/Robo-Dopamine",
+      "description": "Official implementation of \"Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation\""
+    },
+    {
+      "name": "TianxingChen/Embodied-AI-Guide",
+      "stars": 12781,
+      "delta": 141,
+      "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+      "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide"
+    },
+    {
+      "name": "dorianborian/sesame-robot",
+      "stars": 1321,
+      "delta": 87,
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "description": "An open and affordable mini quadruped robot based on ESP32."
+    },
+    {
+      "name": "RLinf/RLinf",
+      "stars": 2978,
+      "delta": 84,
+      "url": "https://github.com/RLinf/RLinf",
+      "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI"
+    },
+    {
+      "name": "dreamzero0/dreamzero",
+      "stars": 1556,
+      "delta": 79,
+      "url": "https://github.com/dreamzero0/dreamzero",
+      "description": "Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world evals"
+    },
+    {
+      "name": "isaac-sim/IsaacLab",
+      "stars": 6824,
+      "delta": 69,
+      "url": "https://github.com/isaac-sim/IsaacLab",
+      "description": "Unified framework for robot learning built on NVIDIA Isaac Sim"
+    },
+    {
+      "name": "gaolongsen/GFVLA_CBF",
+      "stars": 286,
+      "delta": 68,
+      "url": "https://github.com/gaolongsen/GFVLA_CBF",
+      "description": "🤖🧠🇦🇮👾 Graph VLA with Control Barrier Function in Dual-Arm Robotics Manipulation"
+    },
+    {
+      "name": "rminshen03/EAI_Privacy_Position",
+      "stars": 338,
+      "delta": 65,
+      "url": "https://github.com/rminshen03/EAI_Privacy_Position",
+      "description": "Official repository for the paper: \"Embodied AI Requires a Privacy-Utility Tradeoff\" (SPINE framework)."
+    },
+    {
+      "name": "Genesis-Embodied-AI/Genesis",
+      "stars": 28407,
+      "delta": 59,
+      "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+      "description": "A generative world for general-purpose robotics & embodied AI learning."
+    },
+    {
+      "name": "GasaiYU/PAM",
+      "stars": 110,
+      "delta": 59,
+      "url": "https://github.com/GasaiYU/PAM",
+      "description": "[CVPR 2026] The official implemention for \"PAM: A Pose–Appearance–Motion Engine for Sim-to-Real HOI Video Generation\""
+    },
+    {
+      "name": "H-EmbodVis/DOMINO",
+      "stars": 135,
+      "delta": 58,
+      "url": "https://github.com/H-EmbodVis/DOMINO",
+      "description": "Towards Generalizable Robotic Manipulation in Dynamic Environments"
+    },
+    {
+      "name": "NVlabs/GR00T-WholeBodyControl",
+      "stars": 1337,
+      "delta": 54,
+      "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+      "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC"
+    },
+    {
+      "name": "MINT-SJTU/RoboClaw",
+      "stars": 279,
+      "delta": 52,
+      "url": "https://github.com/MINT-SJTU/RoboClaw",
+      "description": "RoboClaw is an Embodied AI Assistant."
+    },
+    {
+      "name": "GaTech-RL2/EgoVerse",
+      "stars": 251,
+      "delta": 51,
+      "url": "https://github.com/GaTech-RL2/EgoVerse",
+      "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World"
+    },
+    {
+      "name": "mujocolab/mjlab",
+      "stars": 2072,
+      "delta": 48,
+      "url": "https://github.com/mujocolab/mjlab",
+      "description": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research."
+    },
+    {
+      "name": "YanjieZe/awesome-humanoid-robot-learning",
+      "stars": 2050,
+      "delta": 48,
+      "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+      "description": "A Paper List for Humanoid Robot Learning."
+    },
+    {
+      "name": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "stars": 2863,
+      "delta": 46,
+      "url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches."
+    },
+    {
+      "name": "keivalya/mini-vla",
+      "stars": 270,
+      "delta": 45,
+      "url": "https://github.com/keivalya/mini-vla",
+      "description": "a minimal, beginner-friendly VLA to show how robot policies can fuse images, text, and states to generate actions"
+    },
+    {
+      "name": "NVIDIA/Isaac-GR00T",
+      "stars": 6580,
+      "delta": 44,
+      "url": "https://github.com/NVIDIA/Isaac-GR00T",
+      "description": "NVIDIA Isaac GR00T N1.6 -  A Foundation Model for Generalist Robots."
+    },
+    {
+      "name": "allenai/molmospaces",
+      "stars": 248,
+      "delta": 43,
+      "url": "https://github.com/allenai/molmospaces",
+      "description": "An end-to-end open ecosystem for robot learning"
+    },
+    {
+      "name": "RoboTwin-Platform/RoboTwin",
+      "stars": 2134,
+      "delta": 42,
+      "url": "https://github.com/RoboTwin-Platform/RoboTwin",
+      "description": "RoboTwin 2.0 Offical Repo"
+    },
+    {
+      "name": "Project-N-E-K-O/N.E.K.O",
+      "stars": 905,
+      "delta": 41,
+      "url": "https://github.com/Project-N-E-K-O/N.E.K.O",
+      "description": "N.E.K.O. — A proactive, multi-modal AI companion featuring 24/7 ambient awareness, agent capability and an embodied emotional engine."
+    },
+    {
+      "name": "DLR-RM/stable-baselines3",
+      "stars": 13023,
+      "delta": 40,
+      "url": "https://github.com/DLR-RM/stable-baselines3",
+      "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms."
+    },
+    {
+      "name": "enactic/openarm",
+      "stars": 2035,
+      "delta": 40,
+      "url": "https://github.com/enactic/openarm",
+      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments."
+    },
+    {
+      "name": "allenai/vla-evaluation-harness",
+      "stars": 186,
+      "delta": 40,
+      "url": "https://github.com/allenai/vla-evaluation-harness",
+      "description": "One framework to evaluate any VLA model on any robot simulation benchmark."
+    },
+    {
+      "name": "leofan90/Awesome-World-Models",
+      "stars": 1439,
+      "delta": 39,
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites."
+    },
+    {
+      "name": "Roboparty/roboto_origin",
+      "stars": 1493,
+      "delta": 38,
+      "url": "https://github.com/Roboparty/roboto_origin",
+      "description": "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人"
+    },
+    {
+      "name": "YanjieZe/GMR",
+      "stars": 1970,
+      "delta": 37,
+      "url": "https://github.com/YanjieZe/GMR",
+      "description": "[ICRA 2026] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST."
+    },
+    {
+      "name": "asimovinc/asimov-v0",
+      "stars": 645,
+      "delta": 37,
+      "url": "https://github.com/asimovinc/asimov-v0",
+      "description": "v0 of Asimov, an open-source humanoid robot"
+    },
+    {
+      "name": "isri-aist/RoboManipBaselines",
+      "stars": 347,
+      "delta": 36,
+      "url": "https://github.com/isri-aist/RoboManipBaselines",
+      "description": "A software framework integrating various imitation learning methods and benchmark environments for robotic manipulation"
+    },
+    {
+      "name": "open-gigaai/giga-world-0",
+      "stars": 1530,
+      "delta": 35,
+      "url": "https://github.com/open-gigaai/giga-world-0",
+      "description": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI"
+    },
+    {
+      "name": "kiloreux/awesome-robotics",
+      "stars": 6291,
+      "delta": 34,
+      "url": "https://github.com/kiloreux/awesome-robotics",
+      "description": "A list of awesome Robotics resources"
+    },
+    {
+      "name": "nvidia-isaac/WBC-AGILE",
+      "stars": 180,
+      "delta": 34,
+      "url": "https://github.com/nvidia-isaac/WBC-AGILE",
+      "description": "Whole Body Control for humanoids: AGILE"
+    },
+    {
+      "name": "haosulab/ManiSkill",
+      "stars": 2736,
+      "delta": 33,
+      "url": "https://github.com/haosulab/ManiSkill",
+      "description": "SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc."
+    },
+    {
+      "name": "unidex-ai/UniDex",
+      "stars": 72,
+      "delta": 32,
+      "url": "https://github.com/unidex-ai/UniDex",
+      "description": "[CVPR 2026] UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos"
+    },
+    {
+      "name": "NVIDIA/soma-retargeter",
+      "stars": 230,
+      "delta": 31,
+      "url": "https://github.com/NVIDIA/soma-retargeter",
+      "description": "SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp"
+    },
+    {
+      "name": "leggedrobotics/rsl_rl",
+      "stars": 2450,
+      "delta": 30,
+      "url": "https://github.com/leggedrobotics/rsl_rl",
+      "description": "A fast and simple implementation of learning algorithms for robotics."
+    },
+    {
+      "name": "hanruihua/NeuPAN",
+      "stars": 916,
+      "delta": 30,
+      "url": "https://github.com/hanruihua/NeuPAN",
+      "description": "[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning."
+    },
+    {
+      "name": "Lifelong-Robot-Learning/LIBERO",
+      "stars": 1673,
+      "delta": 28,
+      "url": "https://github.com/Lifelong-Robot-Learning/LIBERO",
+      "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning"
+    },
+    {
+      "name": "mithi/robotics-coursework",
+      "stars": 4108,
+      "delta": 27,
+      "url": "https://github.com/mithi/robotics-coursework",
+      "description": "🤖 Places where you can learn robotics (and stuff like that) online 🤖"
+    },
+    {
+      "name": "leggedrobotics/legged_gym",
+      "stars": 2855,
+      "delta": 27,
+      "url": "https://github.com/leggedrobotics/legged_gym",
+      "description": "Isaac Gym Environments for Legged Robots"
+    },
+    {
+      "name": "unitreerobotics/unitree_rl_lab",
+      "stars": 901,
+      "delta": 27,
+      "url": "https://github.com/unitreerobotics/unitree_rl_lab",
+      "description": "This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab."
+    },
+    {
+      "name": "VectorRobotics/vector-os-nano",
+      "stars": 101,
+      "delta": 25,
+      "url": "https://github.com/VectorRobotics/vector-os-nano",
+      "description": "Vector OS Nano:  Natural language controlled robot arm. $450 hardware, say 'pick up the battery' and it does. LeRobot SO-ARM100 + RealSense D405 + ROS2 + LLM."
+    },
+    {
+      "name": "MineDojo/Voyager",
+      "stars": 6799,
+      "delta": 23,
+      "url": "https://github.com/MineDojo/Voyager",
+      "description": "An Open-Ended Embodied Agent with Large Language Models"
+    },
+    {
+      "name": "robocasa/robocasa",
+      "stars": 1311,
+      "delta": 23,
+      "url": "https://github.com/robocasa/robocasa",
+      "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots"
+    },
+    {
+      "name": "NVlabs/ProtoMotions",
+      "stars": 1531,
+      "delta": 22,
+      "url": "https://github.com/NVlabs/ProtoMotions",
+      "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots."
+    }
+  ]
+}
