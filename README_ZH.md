@@ -4,7 +4,7 @@
 
 > 具身智能精选集合 —— 人形机器人、强化学习、灵巧操作、Sim-to-Real 等资源自动收录
 
-![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3824-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2652k%2B-yellow?style=flat-square) ![本周新增](https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E-59-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-07-17-orange?style=flat-square)
+![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3847-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2671k%2B-yellow?style=flat-square) ![本周新增](https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E-54-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-07-24-orange?style=flat-square)
 
 ---
 
@@ -18,58 +18,58 @@
 
 | 分类 | 数量 | 占比 |
 |------|-----:|-----:|
-| 🤖 人形机器人 | 633 | █████ 16.6% |
+| 🤖 人形机器人 | 635 | █████ 16.5% |
 | 🐕 四足机器人 | 151 | █ 3.9% |
-| 🤲 灵巧操作 | 537 | ████ 14.0% |
-| 🎯 强化学习 | 914 | ███████ 23.9% |
-| 🧠 模仿学习 & 基础模型 | 201 | █ 5.3% |
-| 🌐 仿真 & Sim-to-Real | 348 | ███ 9.1% |
-| 🗺️ 导航 & SLAM | 197 | █ 5.2% |
-| 📊 数据集 & 基准 | 75 | █ 2.0% |
-| 🔩 硬件 & 开源机器人 | 305 | ██ 8.0% |
-| 📦 其他 | 463 | ████ 12.1% |
+| 🤲 灵巧操作 | 538 | ████ 14.0% |
+| 🎯 强化学习 | 921 | ███████ 23.9% |
+| 🧠 模仿学习 & 基础模型 | 205 | █ 5.3% |
+| 🌐 仿真 & Sim-to-Real | 350 | ███ 9.1% |
+| 🗺️ 导航 & SLAM | 198 | █ 5.1% |
+| 📊 数据集 & 基准 | 77 | █ 2.0% |
+| 🔩 硬件 & 开源机器人 | 307 | ██ 8.0% |
+| 📦 其他 | 465 | ████ 12.1% |
 
 ---
 
-## 🔥 每周热门 (2026-07-17)
+## 🔥 每周热门 (2026-07-24)
 
 | # | 项目 | ⭐ | 📈 周增 | 描述 |
 |:-:|------|---:|-------:|------|
 | 1 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 44,075 | +544 | :robot:是免费的,开源替代的OpenAI,Claude和其他.自主托管和本地-第一. 投降替代... |
-| 2 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 25,897 | +213 | 🤗 LeRobot:通过端到端学习,使人工智能更容易获得机器人 |
+| 2 | [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) | 2,217 | +212 | N.E.K.O. — A proactive, multi-modal AI companion f... |
 | 3 | [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) | 569 | +205 | v1 of Asimov, an open-source humanoid robot |
-| 4 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | 825 | +204 | Scaling Mixture-of-Experts Video Pretraining for E... |
-| 5 | [open-gigaai/giga-world-1](https://github.com/open-gigaai/giga-world-1) | 461 | +184 | A Roadmap to Build World Models for Robot Policy E... |
-| 6 | [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) | 3,587 | +119 | 基于ESP32的开放且负担得起的小型四肢机器人. |
-| 7 | [RLinf/RLinf](https://github.com/RLinf/RLinf) | 4,142 | +72 | 强化体现和代理人工智能学习基础设施 |
-| 8 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 2,117 | +66 | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 9 | [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) | 1,123 | +59 | A curated, continuously updated reading list, pape... |
-| 10 | [HorizonRobotics/EmbodiedGen](https://github.com/HorizonRobotics/EmbodiedGen) | 537 | +58 | 转向一个生成3D世界机器, |
-| 11 | [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | 29,588 | +57 | 创造性的世界,用于一般用途的机器人技术和体现的人工智能学习. |
-| 12 | [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | 2,904 | +52 | 欢迎来到 GR00T全身控制 (WBC) 网站!这是开发和部署先进的人类型控制器的统一平台.包括:N... |
-| 13 | [Tencent-Hunyuan/HY-Embodied](https://github.com/Tencent-Hunyuan/HY-Embodied) | 810 | +52 | HY-Embodied: Embodied Foundation Models for Real-W... |
-| 14 | [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 7,696 | +49 | 基于NVIDIA Isaac Sim的机器人学习的统一框架 |
-| 15 | [RoboTwin-Platform/RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) | 2,598 | +46 | 机器人2.0官方报名 |
-| 16 | [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) | 2,457 | +44 | 编码预训练,调整和评估DreamZero并运行真实世界评估 |
-| 17 | [Holiday-Robot/FlashSAC](https://github.com/Holiday-Robot/FlashSAC) | 333 | +43 | FlashSAC: Fast and Stable Off-Policy Reinforcement... |
-| 18 | [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) | 2,044 | +34 | 机器人_原始 完全开源DIY人形机器人/博头原型机全开源手级人形机器人 |
-| 19 | [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) | 2,005 | +34 | N.E.K.O. — A proactive, multi-modal AI companion f... |
-| 20 | [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) | 9,875 | +32 | 加强学习资源 |
+| 4 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 26,096 | +199 | 🤗 LeRobot:通过端到端学习,使人工智能更容易获得机器人 |
+| 5 | [open-gigaai/giga-world-1](https://github.com/open-gigaai/giga-world-1) | 657 | +196 | A Roadmap to Build World Models for Robot Policy E... |
+| 6 | [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) | 3,688 | +101 | 基于ESP32的开放且负担得起的小型四肢机器人. |
+| 7 | [RLinf/RLinf](https://github.com/RLinf/RLinf) | 4,240 | +98 | 强化体现和代理人工智能学习基础设施 |
+| 8 | [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | 2,991 | +87 | 欢迎来到 GR00T全身控制 (WBC) 网站!这是开发和部署先进的人类型控制器的统一平台.包括:N... |
+| 9 | [Holiday-Robot/FlashSAC](https://github.com/Holiday-Robot/FlashSAC) | 404 | +71 | FlashSAC: Fast and Stable Off-Policy Reinforcement... |
+| 10 | [superxslam/SuperMap](https://github.com/superxslam/SuperMap) | 121 | +60 | SuperMap is a living spatial memory for embodied A... |
+| 11 | [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 7,754 | +58 | 基于NVIDIA Isaac Sim的机器人学习的统一框架 |
+| 12 | [zengweishuai/ScaleBFM](https://github.com/zengweishuai/ScaleBFM) | 90 | +57 | The official implementation of the paper "Scaling ... |
+| 13 | [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) | 2,098 | +54 | 机器人_原始 完全开源DIY人形机器人/博头原型机全开源手级人形机器人 |
+| 14 | [botbotrobotics/BotBrain](https://github.com/botbotrobotics/BotBrain) | 299 | +51 | 模块化开源大脑,用于脚脚机器人.网络UI,用于远程操作,自主导航,地图绘制和监测. |
+| 15 | [TeleHuman/humanoid_skateboarding](https://github.com/TeleHuman/humanoid_skateboarding) | 240 | +51 | Official implementation of "HUSKY: Humanoid Skateb... |
+| 16 | [NVlabs/ProtoMotions](https://github.com/NVlabs/ProtoMotions) | 2,131 | +48 | 简称ProtoMotions是一个 GPU加速模拟和学习框架,用于训练物理模拟数字人类和人形机器人. |
+| 17 | [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | 29,633 | +45 | 创造性的世界,用于一般用途的机器人技术和体现的人工智能学习. |
+| 18 | [OpenMOSS/Awesome-WAM](https://github.com/OpenMOSS/Awesome-WAM) | 1,167 | +44 | A curated, continuously updated reading list, pape... |
+| 19 | [Roboparty/UFO](https://github.com/Roboparty/UFO) | 101 | +42 | An open-source unsupervised RL framework for human... |
+| 20 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | 864 | +39 | Scaling Mixture-of-Experts Video Pretraining for E... |
 
 ---
 
 ## 📁 分类目录
 
-- [🤖 人形机器人](#humanoid) (633)
+- [🤖 人形机器人](#humanoid) (635)
 - [🐕 四足机器人](#quadruped) (151)
-- [🤲 灵巧操作](#dexterous) (537)
-- [🎯 强化学习](#rl) (914)
-- [🧠 模仿学习 & 基础模型](#imitation) (201)
-- [🌐 仿真 & Sim-to-Real](#sim2real) (348)
-- [🗺️ 导航 & SLAM](#navigation) (197)
-- [📊 数据集 & 基准](#dataset) (75)
-- [🔩 硬件 & 开源机器人](#hardware) (305)
-- [📦 其他](#other) (463)
+- [🤲 灵巧操作](#dexterous) (538)
+- [🎯 强化学习](#rl) (921)
+- [🧠 模仿学习 & 基础模型](#imitation) (205)
+- [🌐 仿真 & Sim-to-Real](#sim2real) (350)
+- [🗺️ 导航 & SLAM](#navigation) (198)
+- [📊 数据集 & 基准](#dataset) (77)
+- [🔩 硬件 & 开源机器人](#hardware) (307)
+- [📦 其他](#other) (465)
 
 ---
 
@@ -77,46 +77,46 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) | 4,941 | C++ | An open source quadruped robot pet framework for developing Boston Dyn... |
+| [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) | 4,966 | C++ | An open source quadruped robot pet framework for developing Boston Dyn... |
 | [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) | 3,921 | C++ | Model-based design and verification for robotics. |
-| [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) | 3,587 | C | An open and affordable mini quadruped robot based on ESP32. |
-| [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym) | 3,057 | Python | Isaac Gym Environments for Legged Robots |
-| [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | 2,904 | C++ | Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform ... |
-| [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) | 2,816 | Python | A fast and simple implementation of learning algorithms for robotics. |
+| [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) | 3,688 | C | An open and affordable mini quadruped robot based on ESP32. |
+| [leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym) | 3,068 | Python | Isaac Gym Environments for Legged Robots |
+| [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | 2,991 | C++ | Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform ... |
+| [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) | 2,832 | Python | A fast and simple implementation of learning algorithms for robotics. |
 | [physical-superintelligence-lab/Psi0](https://github.com/physical-superintelligence-lab/Psi0) | 2,627 | Python | [RSS26'] Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoi... |
-| [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) | 2,606 | Python | A Paper List for Humanoid Robot Learning. |
-| [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) | 2,534 | - | Stanford Doggo is an open source quadruped robot that jumps, flips, an... |
-| [YanjieZe/GMR](https://github.com/YanjieZe/GMR) | 2,491 | Python | [ICRA 2026] GMR: General Motion Retargeting. Retarget human motions in... |
-| [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) | 2,044 | Python | Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人 |
-| [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) | 2,035 | Python | Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot... |
+| [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) | 2,624 | Python | A Paper List for Humanoid Robot Learning. |
+| [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) | 2,536 | - | Stanford Doggo is an open source quadruped robot that jumps, flips, an... |
+| [YanjieZe/GMR](https://github.com/YanjieZe/GMR) | 2,513 | Python | [ICRA 2026] GMR: General Motion Retargeting. Retarget human motions in... |
+| [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) | 2,098 | Python | Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人 |
+| [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) | 2,039 | Python | Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot... |
 | [magicleap/Atlas](https://github.com/magicleap/Atlas) | 1,852 | Python | Atlas: End-to-End 3D Scene Reconstruction from Posed Images |
-| [qiayuanl/legged_control](https://github.com/qiayuanl/legged_control) | 1,759 | C++ | NMPC, WBC, state estimation, and sim2real framework for legged robots ... |
-| [Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot) | 1,671 | C | Open source materials for a novel structured legged robot, including m... |
-| [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | 1,595 | - | A curated list of awesome robot descriptions (URDF, MJCF) |
-| [unitreerobotics/xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate) | 1,561 | Python | This repository implements teleoperation of the Unitree humanoid robot... |
-| [robocasa/robocasa](https://github.com/robocasa/robocasa) | 1,550 | Python | RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robo... |
-| [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) | 1,448 | Python | Code accompanying the paper "Learning Agile Robotic Locomotion Skills ... |
-| [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) | 1,373 | C++ | A programmable and highly maneuverable robotic cat for STEM education ... |
-| [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) | 1,271 | Python | Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Co... |
+| [qiayuanl/legged_control](https://github.com/qiayuanl/legged_control) | 1,763 | C++ | NMPC, WBC, state estimation, and sim2real framework for legged robots ... |
+| [Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot) | 1,677 | C | Open source materials for a novel structured legged robot, including m... |
+| [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | 1,611 | - | A curated list of awesome robot descriptions (URDF, MJCF) |
+| [robocasa/robocasa](https://github.com/robocasa/robocasa) | 1,574 | Python | RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robo... |
+| [unitreerobotics/xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate) | 1,571 | Python | This repository implements teleoperation of the Unitree humanoid robot... |
+| [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) | 1,451 | Python | Code accompanying the paper "Learning Agile Robotic Locomotion Skills ... |
+| [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) | 1,374 | C++ | A programmable and highly maneuverable robotic cat for STEM education ... |
+| [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) | 1,273 | Python | Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Co... |
 | [HybridRobotics/Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) | 1,262 | Python | Codebase for Berkeley Humanoid Lite |
 | [unitreerobotics/unitree_ros](https://github.com/unitreerobotics/unitree_ros) | 1,241 | C++ |  |
-| [rohanpsingh/LearningHumanoidWalking](https://github.com/rohanpsingh/LearningHumanoidWalking) | 1,190 | Python | Training a humanoid robot for locomotion using Reinforcement Learning |
-| [ethz-adrl/towr](https://github.com/ethz-adrl/towr) | 1,068 | C++ | A light-weight, Eigen-based C++ library for trajectory optimization fo... |
+| [rohanpsingh/LearningHumanoidWalking](https://github.com/rohanpsingh/LearningHumanoidWalking) | 1,193 | Python | Training a humanoid robot for locomotion using Reinforcement Learning |
+| [ethz-adrl/towr](https://github.com/ethz-adrl/towr) | 1,070 | C++ | A light-weight, Eigen-based C++ library for trajectory optimization fo... |
 | [rohanpsingh/learninghumanoidwalking](https://github.com/rohanpsingh/LearningHumanoidWalking) | 1,064 | Python | Training a humanoid robot for locomotion using Reinforcement Learning |
-| [abizovnuralem/go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) | 1,045 | Python | Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaa... |
-| [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) | 1,036 | Python | Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Bo... |
-| [poppy-project/poppy-humanoid](https://github.com/poppy-project/poppy-humanoid) | 1,007 | Jupyter Notebook | Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimi... |
-| [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) | 1,007 | Shell | v1 of Asimov, an open-source humanoid robot |
-| [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) | 984 | Python | Official implementation for the paper "Full-Order Sampling-Based MPC f... |
+| [abizovnuralem/go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) | 1,050 | Python | Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaa... |
+| [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) | 1,046 | Python | Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Bo... |
+| [poppy-project/poppy-humanoid](https://github.com/poppy-project/poppy-humanoid) | 1,016 | Jupyter Notebook | Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimi... |
+| [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) | 1,016 | Shell | v1 of Asimov, an open-source humanoid robot |
+| [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) | 988 | Python | Official implementation for the paper "Full-Order Sampling-Based MPC f... |
 | [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) | 936 | - | Humanoid Robots Resources |
 | [unitreerobotics/unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) | 839 | C++ |  |
-| [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) | 819 | Python | Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots |
-| [hongsukchoi/VideoMimic](https://github.com/hongsukchoi/VideoMimic) | 817 | Python | Visual Imitation Enables Contextual Humanoid Control. CoRL 2025, Best ... |
-| [facebookresearch/metamotivo](https://github.com/facebookresearch/metamotivo) | 774 | Python | The first behavioral foundation model to control a virtual physics-bas... |
-| [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0) | 769 | - | v0 of Asimov, an open-source humanoid robot |
-| [unitreerobotics/unitree_lerobot](https://github.com/unitreerobotics/unitree_lerobot) | 721 | Python | The unitree_il_lerobot open-source project is a modification of the Le... |
+| [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) | 823 | Python | Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots |
+| [hongsukchoi/VideoMimic](https://github.com/hongsukchoi/VideoMimic) | 820 | Python | Visual Imitation Enables Contextual Humanoid Control. CoRL 2025, Best ... |
+| [facebookresearch/metamotivo](https://github.com/facebookresearch/metamotivo) | 778 | Python | The first behavioral foundation model to control a virtual physics-bas... |
+| [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0) | 771 | - | v0 of Asimov, an open-source humanoid robot |
+| [unitreerobotics/unitree_lerobot](https://github.com/unitreerobotics/unitree_lerobot) | 725 | Python | The unitree_il_lerobot open-source project is a modification of the Le... |
 | [carlosferrazza/humanoid-bench](https://github.com/carlosferrazza/humanoid-bench) | 720 | Python |  |
-| [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot) | 705 | Python | End-to-end pipeline converting generative videos (Veo, Sora) to humano... |
+| [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot) | 712 | Python | End-to-end pipeline converting generative videos (Veo, Sora) to humano... |
 
 ---
 
@@ -124,31 +124,31 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [ToanTech/py-apple-quadruped-robot](https://github.com/ToanTech/py-apple-quadruped-robot) | 1,282 | Python | 一个低成本大型全套四足机器人软硬件开源项目 |
+| [ToanTech/py-apple-quadruped-robot](https://github.com/ToanTech/py-apple-quadruped-robot) | 1,287 | Python | 一个低成本大型全套四足机器人软硬件开源项目 |
 | [mjbots/moteus](https://github.com/mjbots/moteus) | 1,155 | C++ | Brushless servo and quadrupedal robot |
-| [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) | 1,138 | Python | Open-Source,ROS Robot Dog Kit |
-| [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) | 1,134 | Python | Awesome Quadrupedal Robots |
+| [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) | 1,142 | Python | Open-Source,ROS Robot Dog Kit |
+| [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) | 1,137 | Python | Awesome Quadrupedal Robots |
 | [FlorianWilk/SpotMicroAI](https://github.com/FlorianWilk/SpotMicroAI) | 452 | - | SpotMicro AI - How to build a self-learning Robot |
 | [google-deepmind/barkour_robot](https://github.com/google-deepmind/barkour_robot) | 365 | C++ | Barkour Robot: Agile Quadruped Robots by Google DeepMind |
 | [Derek-TH-Wang/quadruped_ctrl](https://github.com/Derek-TH-Wang/quadruped_ctrl) | 357 | C++ | MIT mini cheetah quadruped robot simulated in pybullet environment usi... |
 | [aaedmusa/TOPS](https://github.com/aaedmusa/TOPS) | 296 | C++ | TOPS (Traverser of Planar Surfaces) or "SPOT" backwards is a 3D printe... |
-| [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | 287 | C++ | TNY - 360 Robot source code and 3d models |
+| [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | 289 | C++ | TNY - 360 Robot source code and 3d models |
 | [chvmp/robots](https://github.com/chvmp/robots) | 274 | C | Collection of quadrupedal robots configured to work in CHAMP developme... |
-| [metadriverse/metaurban](https://github.com/metadriverse/metaurban) | 249 | Python | [ICLR 2025 Spotlight] MetaUrban: An Embodied AI Simulation Platform fo... |
+| [haraduka/mevius](https://github.com/haraduka/mevius) | 251 | Python | A Quadruped Robot Easily Constructed through E-Commerce with Sheet Met... |
+| [metadriverse/metaurban](https://github.com/metadriverse/metaurban) | 250 | Python | [ICLR 2025 Spotlight] MetaUrban: An Embodied AI Simulation Platform fo... |
 | [ShuoYangRobotics/QuadrupedSim](https://github.com/ShuoYangRobotics/QuadrupedSim) | 249 | MATLAB | A quadruped robot simulator in Matlab/Simulink |
-| [haraduka/mevius](https://github.com/haraduka/mevius) | 249 | Python | A Quadruped Robot Easily Constructed through E-Commerce with Sheet Met... |
-| [Tencent-RoboticsX/lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play) | 238 | Python | Project Page for Lifelike Agility and Play in Quadrupedal Robots using... |
-| [SovGVD/esp32-robot-dog-code](https://github.com/SovGVD/esp32-robot-dog-code) | 151 | C++ | WIP: ESP32 powered robot dog, quadruped robot. This is just code, hard... |
-| [khaledgabr77/unitree_go2_ros2](https://github.com/khaledgabr77/unitree_go2_ros2) | 144 | C++ | The package provides a complete ROS 2 Jazzy integration for the Unitre... |
+| [Tencent-RoboticsX/lifelike-agility-and-play](https://github.com/Tencent-RoboticsX/lifelike-agility-and-play) | 240 | Python | Project Page for Lifelike Agility and Play in Quadrupedal Robots using... |
+| [SovGVD/esp32-robot-dog-code](https://github.com/SovGVD/esp32-robot-dog-code) | 152 | C++ | WIP: ESP32 powered robot dog, quadruped robot. This is just code, hard... |
+| [khaledgabr77/unitree_go2_ros2](https://github.com/khaledgabr77/unitree_go2_ros2) | 146 | C++ | The package provides a complete ROS 2 Jazzy integration for the Unitre... |
 | [lnotspotl/notspot_sim_py](https://github.com/lnotspotl/notspot_sim_py) | 135 | Python | This repository contains all the code and files needed to simulate the... |
+| [haraduka/mevius2](https://github.com/haraduka/mevius2) | 135 | Python | Practical Open-Source Quadruped Robot with Sheet Metal Welding and Mul... |
 | [ViolinLee/NodeQuad12-MicroPython](https://github.com/ViolinLee/NodeQuad12-MicroPython) | 130 | Python | Spider quadruped robot using NodeMUC-32S (ESP32) and MicroPython. |
-| [haraduka/mevius2](https://github.com/haraduka/mevius2) | 130 | Python | Practical Open-Source Quadruped Robot with Sheet Metal Welding and Mul... |
-| [lshil00/Quadruped_robot](https://github.com/lshil00/Quadruped_robot) | 129 | C | a 12-DOF quadruped robot design |
+| [lshil00/Quadruped_robot](https://github.com/lshil00/Quadruped_robot) | 128 | C | a 12-DOF quadruped robot design |
 | [iit-DLSLab/muse](https://github.com/iit-DLSLab/muse) | 127 | C++ | A State Estimation Package for Quadruped Robots, that fuses Propriocep... |
-| [anoochit/arduino-quadruped-robot](https://github.com/anoochit/arduino-quadruped-robot) | 124 | Arduino | Arduino Quadruped Robot, Spider Robot |
+| [anoochit/arduino-quadruped-robot](https://github.com/anoochit/arduino-quadruped-robot) | 125 | Arduino | Arduino Quadruped Robot, Spider Robot |
 | [golaced/Quadruped-Robot-Moco-12-](https://github.com/golaced/Quadruped-Robot-Moco-12-) | 122 | Python | MOCO通用四足机器人控制器教程 |
-| [ToanTech/py-apple-bldc-quadruped-robot](https://github.com/ToanTech/py-apple-bldc-quadruped-robot) | 120 | C++ | 这是菠萝狗四足机器人开源项目的分支，菠萝无刷系列开源四足机器人的专门仓库 |
-| [UMich-CURLY/deep-contact-estimator](https://github.com/UMich-CURLY/deep-contact-estimator) | 118 | Python | Contact estimation for quadruped robots. |
+| [ToanTech/py-apple-bldc-quadruped-robot](https://github.com/ToanTech/py-apple-bldc-quadruped-robot) | 121 | C++ | 这是菠萝狗四足机器人开源项目的分支，菠萝无刷系列开源四足机器人的专门仓库 |
+| [UMich-CURLY/deep-contact-estimator](https://github.com/UMich-CURLY/deep-contact-estimator) | 117 | Python | Contact estimation for quadruped robots. |
 | [HybridRobotics/quadruped_nmpc_dcbf_duality](https://github.com/HybridRobotics/quadruped_nmpc_dcbf_duality) | 117 | C++ |  |
 | [facebookresearch/spot-sim2real](https://github.com/facebookresearch/spot-sim2real) | 103 | Python | Spot Sim2Real Infrastructure |
 | [alexandrospetkos/quad](https://github.com/alexandrospetkos/quad) | 97 | Processing | Four Legged robot design |
@@ -157,9 +157,9 @@
 | [mujocolab/anymal_c_velocity](https://github.com/mujocolab/anymal_c_velocity) | 76 | Python | Integrating a custom robot (ANYmal C) with mjlab's velocity task |
 | [lnotspotl/a1_sim_py](https://github.com/lnotspotl/a1_sim_py) | 74 | Python | This is a temporary repository, which contains all the files needed to... |
 | [ANYbotics/anymal_c_simple_description](https://github.com/ANYbotics/anymal_c_simple_description) | 74 | CMake | Simplified robot description of the ANYmal C quadrupedal robot. |
+| [runeharlyk/SpotMicroESP32-Leika](https://github.com/runeharlyk/SpotMicroESP32-Leika) | 72 | C++ | My take on the quadruped Spot Micro robot. Its built around an ESP32 c... |
 | [SoftServeSAG/spot_simulation](https://github.com/SoftServeSAG/spot_simulation) | 70 | - | This repository contains examples of simulation for Boston Dynamic's r... |
 | [uzh-rpg/event-based_object_catching_anymal](https://github.com/uzh-rpg/event-based_object_catching_anymal) | 70 | C++ | Code for "Event-based Agile Object Catching with a Quadrupedal Robot",... |
-| [runeharlyk/SpotMicroESP32-Leika](https://github.com/runeharlyk/SpotMicroESP32-Leika) | 70 | C++ | My take on the quadruped Spot Micro robot. Its built around an ESP32 c... |
 | [RCILab/RCI_quadruped_robot_navigation](https://github.com/RCILab/RCI_quadruped_robot_navigation) | 64 | C++ | This repository integrates reinforcement learning (RL), navigation, an... |
 | [JackDemeter/quadruped-robot](https://github.com/JackDemeter/quadruped-robot) | 63 | Jupyter Notebook | Quadruped Robot for capstone project |
 | [golaced/Moco-8-OpenSourced-Quadruped-Robot](https://github.com/golaced/Moco-8-OpenSourced-Quadruped-Robot) | 62 | C | 全开源8自由度四足机器人  欢迎Star |
@@ -171,41 +171,41 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) | 4,452 | Jupyter Notebook | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whol... |
-| [enactic/openarm](https://github.com/enactic/openarm) | 2,730 | MDX | A fully open-source humanoid arm for physical AI research and deployme... |
-| [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) | 2,123 | - | [Embodied-AI-Survey-2025] Paper List and Resource Repository for Embod... |
-| [Lifelong-Robot-Learning/LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) | 2,068 | Jupyter Notebook | Benchmarking Knowledge Transfer in Lifelong Robot Learning |
-| [thu-ml/RoboticsDiffusionTransformer](https://github.com/thu-ml/RoboticsDiffusionTransformer) | 1,754 | Python | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation |
-| [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface) | 1,501 | Python | Universal Manipulation Interface: In-The-Wild Robot Teaching Without I... |
-| [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) | 1,225 | Python | Mobile manipulation research tools for roboticists |
-| [andyzeng/visual-pushing-grasping](https://github.com/andyzeng/visual-pushing-grasping) | 1,107 | Python | Train robotic agents to learn to plan pushing and grasping actions for... |
-| [huangwl18/ReKep](https://github.com/huangwl18/ReKep) | 972 | Python | ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints fo... |
+| [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) | 4,453 | Jupyter Notebook | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whol... |
+| [enactic/openarm](https://github.com/enactic/openarm) | 2,756 | MDX | A fully open-source humanoid arm for physical AI research and deployme... |
+| [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) | 2,129 | - | [Embodied-AI-Survey-2025] Paper List and Resource Repository for Embod... |
+| [Lifelong-Robot-Learning/LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) | 2,093 | Jupyter Notebook | Benchmarking Knowledge Transfer in Lifelong Robot Learning |
+| [thu-ml/RoboticsDiffusionTransformer](https://github.com/thu-ml/RoboticsDiffusionTransformer) | 1,760 | Python | RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation |
+| [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface) | 1,520 | Python | Universal Manipulation Interface: In-The-Wild Robot Teaching Without I... |
+| [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) | 1,227 | Python | Mobile manipulation research tools for roboticists |
+| [andyzeng/visual-pushing-grasping](https://github.com/andyzeng/visual-pushing-grasping) | 1,109 | Python | Train robotic agents to learn to plan pushing and grasping actions for... |
+| [huangwl18/ReKep](https://github.com/huangwl18/ReKep) | 974 | Python | ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints fo... |
+| [mees/calvin](https://github.com/mees/calvin) | 962 | Python | CALVIN - A benchmark for Language-Conditioned Policy Learning for Long... |
 | [LeCAR-Lab/human2humanoid](https://github.com/LeCAR-Lab/human2humanoid) | 959 | Python | [IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperat... |
-| [mees/calvin](https://github.com/mees/calvin) | 958 | Python | CALVIN - A benchmark for Language-Conditioned Policy Learning for Long... |
 | [vimalabs/VIMA](https://github.com/vimalabs/VIMA) | 854 | Python | Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robo... |
-| [huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser) | 821 | Python | VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Langu... |
-| [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) | 817 | - | A curated list of 3D Vision papers relating to Robotics domain in the ... |
-| [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) | 810 | C# | HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands |
+| [huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser) | 824 | Python | VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Langu... |
+| [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) | 818 | - | A curated list of 3D Vision papers relating to Robotics domain in the ... |
+| [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) | 811 | C# | HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands |
 | [google-research/robopianist](https://github.com/google-research/robopianist) | 710 | Python | [CoRL '23] Dexterous piano playing with deep reinforcement learning. |
-| [LightwheelAI/leisaac](https://github.com/LightwheelAI/leisaac) | 695 | Python | LeIsaac provides teleoperation functionality in IsaacLab using the SO1... |
+| [LightwheelAI/leisaac](https://github.com/LightwheelAI/leisaac) | 700 | Python | LeIsaac provides teleoperation functionality in IsaacLab using the SO1... |
 | [jimmyyhwu/tidybot](https://github.com/jimmyyhwu/tidybot) | 679 | Python | TidyBot: Personalized Robot Assistance with Large Language Models |
-| [FlagOpen/Robo-Dopamine](https://github.com/FlagOpen/Robo-Dopamine) | 646 | Python | Official implementation of "Robo-Dopamine: General Process Reward Mode... |
-| [capgym/cap-x](https://github.com/capgym/cap-x) | 643 | Python | A Framework for Benchmarking and Improving Coding Agents for Robot Man... |
+| [capgym/cap-x](https://github.com/capgym/cap-x) | 661 | Python | A Framework for Benchmarking and Improving Coding Agents for Robot Man... |
+| [FlagOpen/Robo-Dopamine](https://github.com/FlagOpen/Robo-Dopamine) | 648 | Python | Official implementation of "Robo-Dopamine: General Process Reward Mode... |
 | [skumra/robotic-grasping](https://github.com/skumra/robotic-grasping) | 630 | Python | Antipodal Robotic Grasping using GR-ConvNet. IROS 2020. |
-| [jimmyyhwu/tidybot2](https://github.com/jimmyyhwu/tidybot2) | 606 | Python | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learn... |
+| [jimmyyhwu/tidybot2](https://github.com/jimmyyhwu/tidybot2) | 607 | Python | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learn... |
 | [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) | 603 | C++ | Easy to use and accurate hand eye calibration which has been working r... |
 | [FlagOpen/RoboBrain](https://github.com/FlagOpen/RoboBrain) | 559 | Python | [CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation ... |
 | [cliport/cliport](https://github.com/cliport/cliport) | 546 | Jupyter Notebook | CLIPort: What and Where Pathways for Robotic Manipulation |
-| [peract/peract](https://github.com/peract/peract) | 497 | Python | Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation |
+| [peract/peract](https://github.com/peract/peract) | 498 | Python | Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation |
 | [Psi-Robot/DexGraspVLA](https://github.com/Psi-Robot/DexGraspVLA) | 489 | Python | [AAAI'26 Oral] DexGraspVLA: A Vision-Language-Action Framework Towards... |
-| [gaolongsen/GFVLA_CBF](https://github.com/gaolongsen/GFVLA_CBF) | 472 | Python | 🤖🧠🇦🇮👾 Graph VLA with Control Barrier Function in Dual-Arm Robotics Man... |
-| [NVlabs/PointWorld](https://github.com/NVlabs/PointWorld) | 456 | Python | PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulati... |
-| [JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) | 425 | - | A curated list of large VLM-based VLA models for robotic manipulation. |
+| [gaolongsen/GFVLA_CBF](https://github.com/gaolongsen/GFVLA_CBF) | 478 | Python | 🤖🧠🇦🇮👾 Graph VLA with Control Barrier Function in Dual-Arm Robotics Man... |
+| [NVlabs/PointWorld](https://github.com/NVlabs/PointWorld) | 468 | Python | PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulati... |
+| [JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) | 427 | - | A curated list of large VLM-based VLA models for robotic manipulation. |
 | [star2dust/paper-simulation](https://github.com/star2dust/paper-simulation) | 422 | MATLAB | Let's reproduce paper simulations of multi-robot systems, formation co... |
 | [huangwl18/PointWorld](https://github.com/huangwl18/PointWorld) | 418 | - | PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulati... |
-| [aadhithya14/Open-Teach](https://github.com/aadhithya14/Open-Teach) | 414 | C# | A Versatile Teleoperation framework for Robotic Manipulation using Met... |
+| [aadhithya14/Open-Teach](https://github.com/aadhithya14/Open-Teach) | 415 | C# | A Versatile Teleoperation framework for Robotic Manipulation using Met... |
 | [rhett-chen/Robotic-grasping-papers](https://github.com/rhett-chen/Robotic-grasping-papers) | 408 | - | paper list of robotic grasping and some related works |
-| [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) | 401 | Python | This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM... |
+| [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) | 407 | Python | This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM... |
 | [NVlabs/RVT](https://github.com/NVlabs/RVT) | 398 | Jupyter Notebook | Official Code for RVT-2 and RVT |
 | [j96w/DexCap](https://github.com/j96w/DexCap) | 387 | Python | [RSS 2024] "DexCap: Scalable and Portable Mocap Data Collection System... |
 | [microsoft/ChatGPT-Robot-Manipulation-Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts) | 387 | - |  |
@@ -220,7 +220,7 @@
 |------|---:|:----:|------|
 | [localstack/localstack](https://github.com/localstack/localstack) | 64,509 | Python | 💻 A fully functional local AWS cloud stack. Develop and test your clou... |
 | [openai/gym](https://github.com/openai/gym) | 37,057 | Python | A toolkit for developing and comparing reinforcement learning algorith... |
-| [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | 29,588 | Python | A generative world for general-purpose robotics & embodied AI learning... |
+| [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | 29,633 | Python | A generative world for general-purpose robotics & embodied AI learning... |
 | [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 28,600 | Python | A generative world for general-purpose robotics & embodied AI learning... |
 | [wekan/wekan](https://github.com/wekan/wekan) | 20,856 | JavaScript | The Open Source kanban, built with Meteor. GitHub issues/PRs are only ... |
 | [volcengine/verl](https://github.com/verl-project/verl) | 19,481 | Python | verl: Volcano Engine Reinforcement Learning for LLMs |
@@ -230,32 +230,32 @@
 | [openai/baselines](https://github.com/openai/baselines) | 16,651 | Python | OpenAI Baselines: high-quality implementations of reinforcement learni... |
 | [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) | 14,568 | Python | Python Implementation of Reinforcement Learning: An Introduction |
 | [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,615 | C++ | Open-source simulator for autonomous driving research. |
-| [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) | 13,577 | Python | PyTorch version of Stable Baselines, reliable implementations of reinf... |
+| [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) | 13,603 | Python | PyTorch version of Stable Baselines, reliable implementations of reinf... |
 | [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | 13,005 | - | A curated list of Artificial Intelligence (AI) courses, books, video l... |
-| [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) | 9,875 | - | Reinforcement learning resources curated |
+| [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) | 9,887 | - | Reinforcement learning resources curated |
 | [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 9,060 | Python | An Easy-to-use, Scalable and High-performance Agentic RL Framework bas... |
 | [openai/universe](https://github.com/openai/universe) | 7,512 | Python | Universe: a software platform for measuring and training an AI's gener... |
 | [zsdonghao/tensorlayer](https://github.com/tensorlayer/TensorLayer) | 7,393 | Python | Deep Learning and Reinforcement Learning Library for Scientists and En... |
-| [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) | 6,906 | - | Reading list for research topics in multimodal machine learning |
+| [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) | 6,910 | - | Reading list for research topics in multimodal machine learning |
 | [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL) | 6,439 | Jupyter Notebook | A course in reinforcement learning in the wild |
-| [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) | 6,402 | - | A curated list of awesome self-supervised methods |
+| [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) | 6,405 | - | A curated list of awesome self-supervised methods |
 | [ppwwyyxx/tensorpack](https://github.com/tensorpack/tensorpack) | 6,294 | Python | A Neural Net Training Interface on TensorFlow, with focus on speed + f... |
 | [CarperAI/trlx](https://github.com/CarperAI/trlx) | 4,740 | Python | A repo for distributed training of language models with Reinforcement ... |
 | [PKU-Alignment/align-anything](https://github.com/PKU-Alignment/align-anything) | 4,637 | Python | Align Anything: Training All-modality Model with Feedback |
 | [deepmind/dm_control](https://github.com/google-deepmind/dm_control) | 4,466 | Python | Google DeepMind's software stack for physics-based simulation and Rein... |
-| [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | 4,426 | - | A comprehensive list of papers using large language/multi-modal models... |
-| [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) | 4,413 | - | A curated list of reinforcement learning with human feedback resources... |
-| [RLinf/RLinf](https://github.com/RLinf/RLinf) | 4,142 | Python | RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic ... |
+| [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | 4,433 | - | A comprehensive list of papers using large language/multi-modal models... |
+| [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) | 4,416 | - | A curated list of reinforcement learning with human feedback resources... |
+| [RLinf/RLinf](https://github.com/RLinf/RLinf) | 4,240 | Python | RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic ... |
 | [rlcode/reinforcement-learning](https://github.com/rlcode/reinforcement-learning) | 3,618 | Python | Minimal and Clean Reinforcement Learning Examples |
 | [opendilab/DI-engine](https://github.com/opendilab/DI-engine) | 3,598 | Python | OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Lea... |
-| [pytorch/rl](https://github.com/pytorch/rl) | 3,493 | Python | A modular, primitive-first, python-first PyTorch library for Reinforce... |
+| [pytorch/rl](https://github.com/pytorch/rl) | 3,503 | Python | A modular, primitive-first, python-first PyTorch library for Reinforce... |
 | [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) | 3,413 | Python | Modularized Implementation of Deep RL Algorithms in PyTorch |
-| [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3,347 | Swift | OpenBot leverages smartphones as brains for low-cost robots. We have d... |
+| [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3,353 | Swift | OpenBot leverages smartphones as brains for low-cost robots. We have d... |
 | [reinforceio/tensorforce](https://github.com/tensorforce/tensorforce) | 3,312 | Python | Tensorforce: a TensorFlow library for applied reinforcement learning |
 | [deepmind/trfl](https://github.com/google-deepmind/trfl) | 3,134 | Python | TensorFlow Reinforcement Learning |
-| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,103 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请... |
+| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,117 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请... |
 | [unitreerobotics/unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) | 3,076 | Python |  |
-| [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) | 3,020 | - | Deep Learning and deep reinforcement learning research papers and some... |
+| [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) | 3,021 | - | Deep Learning and deep reinforcement learning research papers and some... |
 | [tensorflow/agents](https://github.com/tensorflow/agents) | 2,991 | Python | TF-Agents: A reliable, scalable and easy to use TensorFlow library for... |
 | [xbpeng/DeepMimic](https://github.com/xbpeng/DeepMimic) | 2,960 | C++ | Motion imitation with deep reinforcement learning. |
 
@@ -265,46 +265,46 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 25,897 | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end lear... |
+| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 26,096 | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end lear... |
 | [tzutalin/labelImg](https://github.com/HumanSignal/labelImg) | 24,803 | Python | LabelImg is now part of the Label Studio community. The popular image ... |
 | [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) | 20,738 | - | Generative Agents: Interactive Simulacra of Human Behavior |
+| [cactus-compute/cactus](https://github.com/cactus-compute/cactus) | 5,532 | C++ | Quantization, kernels, inference engine for mobiles, wearables, smart ... |
 | [openvla/openvla](https://github.com/openvla/openvla) | 5,367 | Python | OpenVLA: An open-source vision-language-action model for robotic manip... |
 | [geohot/qira](https://github.com/geohot/qira) | 4,062 | C | QEMU Interactive Runtime Analyser |
 | [ysymyth/ReAct](https://github.com/ysymyth/ReAct) | 3,581 | Jupyter Notebook | [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models |
 | [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) | 3,577 | Python | Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, ... |
-| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 3,376 | - | A curated list of state-of-the-art research in embodied AI, focusing o... |
+| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 3,401 | - | A curated list of state-of-the-art research in embodied AI, focusing o... |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 3,267 | Python | Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on ... |
 | [OpenDriveLab/AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World) | 2,798 | Python | [IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale ... |
 | [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin) | 2,687 | C++ | Pangolin is a lightweight portable rapid development library for manag... |
 | [naiveHobo/InvoiceNet](https://github.com/naiveHobo/InvoiceNet) | 2,678 | Python | Deep neural network to extract intelligent information from invoice do... |
-| [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 2,117 | - | 星期八 Octoday 「具身智能知识索引与产业地图」 |
+| [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) | 2,217 | Python | N.E.K.O. — A proactive, multi-modal AI companion featuring 24/7 ambien... |
+| [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 2,129 | - | 星期八 Octoday 「具身智能知识索引与产业地图」 |
 | [mapbox/robosat](https://github.com/mapbox/robosat) | 2,050 | Python | Semantic segmentation on aerial and satellite imagery. Extracts featur... |
-| [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) | 2,005 | Python | N.E.K.O. — A proactive, multi-modal AI companion featuring 24/7 ambien... |
-| [robotics-survey/Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) | 1,389 | - |  |
+| [robotics-survey/Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) | 1,392 | - |  |
 | [PDAL/PDAL](https://github.com/PDAL/PDAL) | 1,340 | C++ | PDAL is Point Data Abstraction Library. GDAL for point cloud data. |
-| [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | 1,056 | - | A comprehensive list of papers about Robot Manipulation, including pap... |
+| [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | 1,066 | - | A comprehensive list of papers about Robot Manipulation, including pap... |
 | [balena-os/meta-balena](https://github.com/balena-os/meta-balena) | 983 | BitBake | A collection of Yocto layers used to build balenaOS images |
 | [SMRT-AIST/interactive_slam](https://github.com/koide3/interactive_slam) | 940 | C++ | Interactive Map Correction for 3D Graph SLAM |
-| [Auromix/ROS-LLM](https://github.com/Auromix/ROS-LLM) | 809 | Python | ROS-LLM is a framework designed for embodied intelligence applications... |
+| [Auromix/ROS-LLM](https://github.com/Auromix/ROS-LLM) | 815 | Python | ROS-LLM is a framework designed for embodied intelligence applications... |
+| [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) | 805 | - | A Survey on Reinforcement Learning of Vision-Language-Action Models fo... |
 | [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) | 800 | TypeScript | 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labelin... |
-| [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) | 794 | - | A Survey on Reinforcement Learning of Vision-Language-Action Models fo... |
 | [terminators2025/RealMirror](https://github.com/terminators2025/RealMirror) | 793 | JavaScript | RealMirror, a comprehensive, open-source embodied AI VLA platform. |
-| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 664 | Python | [RSS'25] This repository is the implementation of "NaVILA: Legged Robo... |
+| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 668 | Python | [RSS'25] This repository is the implementation of "NaVILA: Legged Robo... |
 | [notmahi/dobb-e](https://github.com/notmahi/dobb-e) | 622 | G-code | Dobb·E: An open-source, general framework for learning household robot... |
-| [fracapuano/robot-learning-tutorial](https://github.com/fracapuano/robot-learning-tutorial) | 555 | TeX | All the source code for "Robot Learning: A Tutorial". Get involved to ... |
-| [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) | 542 | Python | An all-in-one VLA engineering platform for embodied AI — from data to ... |
-| [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) | 521 | - | [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulatio... |
-| [InternRobotics/InternVLA-A-series](https://github.com/InternRobotics/InternVLA-A-series) | 504 | Python | InternVLA-A1: Unifying Understanding, Generation, and Action for Robot... |
-| [pxvr-official/1](https://github.com/pxvr-official/1) | 488 | - | 無許諾配信 企業理念剽窃 動物の森収益化 大神ミオ権利者削除 戌神権利侵害発言 常闇トワ炎上 夜空メルストーカー被害 建築王サポーター放置 ... |
-| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 485 | - | A comprehensive list of excellent research papers, models, datasets, a... |
+| [FluxVLA/FluxVLA](https://github.com/FluxVLA/FluxVLA) | 563 | Python | An all-in-one VLA engineering platform for embodied AI — from data to ... |
+| [fracapuano/robot-learning-tutorial](https://github.com/fracapuano/robot-learning-tutorial) | 557 | TeX | All the source code for "Robot Learning: A Tutorial". Get involved to ... |
+| [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) | 526 | - | [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulatio... |
+| [InternRobotics/InternVLA-A-series](https://github.com/InternRobotics/InternVLA-A-series) | 510 | Python | InternVLA-A1: Unifying Understanding, Generation, and Action for Robot... |
+| [pxvr-official/1](https://github.com/pxvr-official/1) | 490 | - | 無許諾配信 企業理念剽窃 動物の森収益化 大神ミオ権利者削除 戌神権利侵害発言 常闇トワ炎上 夜空メルストーカー被害 建築王サポーター放置 ... |
+| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 486 | - | A comprehensive list of excellent research papers, models, datasets, a... |
 | [eai-yeslab/OpenEAI-VLA](https://github.com/eai-yeslab/OpenEAI-VLA) | 479 | Python | OpenEAI Platform for Embodied Intelligence |
-| [JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) | 467 | - | Paper list in the survey paper: Toward General-Purpose Robots via Foun... |
-| [allenai/procthor](https://github.com/allenai/procthor) | 457 | Python | 🏘️ Scaling Embodied AI by Procedurally Generating Interactive 3D House... |
+| [JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) | 469 | - | Paper list in the survey paper: Toward General-Purpose Robots via Foun... |
+| [allenai/procthor](https://github.com/allenai/procthor) | 458 | Python | 🏘️ Scaling Embodied AI by Procedurally Generating Interactive 3D House... |
+| [OpenMOSS/VLABench](https://github.com/OpenMOSS/VLABench) | 455 | Python | Official repo of VLABench, a large scale benchmark designed for fairly... |
 | [JeffreyYH/robotics-fm-survey](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) | 454 | - | Paper list in the survey paper: Toward General-Purpose Robots via Foun... |
-| [OpenMOSS/VLABench](https://github.com/OpenMOSS/VLABench) | 450 | Python | Official repo of VLABench, a large scale benchmark designed for fairly... |
-| [Shuijing725/awesome-robot-social-navigation](https://github.com/Shuijing725/awesome-robot-social-navigation) | 447 | - | A curated list of robot social navigation. |
-| [microsoft/VITRA](https://github.com/microsoft/VITRA) | 442 | Python | [ICRA 2026] VITRA: Scalable Vision-Language-Action Model Pretraining f... |
-| [Open-X-Humanoid/HEX](https://github.com/Open-X-Humanoid/HEX) | 440 | Jupyter Notebook | HEX is a whole-body vision-language-action framework for full-sized hu... |
-| [Shaka-Labs/ACT](https://github.com/Shaka-Labs/ACT) | 437 | Jupyter Notebook | Action Chunking Transformer implementation for low cost robot |
+| [Shuijing725/awesome-robot-social-navigation](https://github.com/Shuijing725/awesome-robot-social-navigation) | 450 | - | A curated list of robot social navigation. |
+| [microsoft/VITRA](https://github.com/microsoft/VITRA) | 449 | Python | [ICRA 2026] VITRA: Scalable Vision-Language-Action Model Pretraining f... |
 
 ---
 
@@ -312,46 +312,46 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | 14,618 | C++ | Bullet Physics SDK: real-time collision detection and multi-physics si... |
+| [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | 14,635 | C++ | Bullet Physics SDK: real-time collision detection and multi-physics si... |
 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 12,149 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator... |
-| [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 7,696 | Python | Unified framework for robot learning built on NVIDIA Isaac Sim |
-| [NVIDIA/warp](https://github.com/NVIDIA/warp) | 6,871 | Python | A Python framework for GPU-accelerated simulation, robotics, and machi... |
-| [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) | 3,752 | C++ | A flexible, high-performance 3D simulator for Embodied AI research. |
-| [mani-skill/ManiSkill](https://github.com/mani-skill/ManiSkill) | 3,117 | Python | SAPIEN Manipulation Skill Framework, an open source GPU parallelized r... |
+| [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 7,754 | Python | Unified framework for robot learning built on NVIDIA Isaac Sim |
+| [NVIDIA/warp](https://github.com/NVIDIA/warp) | 6,891 | Python | A Python framework for GPU-accelerated simulation, robotics, and machi... |
+| [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) | 3,763 | C++ | A flexible, high-performance 3D simulator for Embodied AI research. |
+| [mani-skill/ManiSkill](https://github.com/mani-skill/ManiSkill) | 3,150 | Python | SAPIEN Manipulation Skill Framework, an open source GPU parallelized r... |
 | [deepmind/mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) | 3,082 | Python | A collection of high-quality models for the MuJoCo physics engine, cur... |
 | [google-deepmind/mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) | 3,082 | Python | A collection of high-quality models for the MuJoCo physics engine, cur... |
-| [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) | 3,067 | Python | A modular high-level library to train embodied AI agents across a vari... |
+| [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) | 3,075 | Python | A modular high-level library to train embodied AI agents across a vari... |
 | [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) | 2,957 | Python | SAPIEN Manipulation Skill Framework, an open source GPU parallelized r... |
-| [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) | 2,103 | Python | Community for applying LLMs to robotics and a robot simulator with Cha... |
-| [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) | 2,058 | Jupyter Notebook | An open-source library for GPU-accelerated robot learning and sim-to-r... |
-| [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | 1,412 | C++ | Open source robotics simulator. The latest version of Gazebo. |
+| [NVIDIA/skills](https://github.com/NVIDIA/skills) | 2,658 | Python | Agent Skills for NVIDIA products — install into Claude Code, Codex, an... |
+| [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) | 2,106 | Python | Community for applying LLMs to robotics and a robot simulator with Cha... |
+| [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) | 2,074 | Jupyter Notebook | An open-source library for GPU-accelerated robot learning and sim-to-r... |
+| [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | 1,423 | C++ | Open source robotics simulator. The latest version of Gazebo. |
 | [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners) | 1,330 | CMake | 中国大学MOOC《机器人操作系统入门》代码示例    ROS tutorial |
-| [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) | 1,272 | Python | A simulation platform for versatile Embodied AI research and developme... |
+| [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia) | 1,276 | Python | A simulation platform for versatile Embodied AI research and developme... |
 | [OpenRobotLab/GRUtopia](https://github.com/InternRobotics/InternUtopia) | 1,209 | Python | A simulation platform for versatile Embodied AI research and developme... |
 | [Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) | 1,151 | Python | A generative and self-guided robotic agent that endlessly propose and ... |
-| [Unity-Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) | 997 | C# | Perception toolkit for sim2real training and validation in Unity |
+| [Unity-Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) | 998 | C# | Perception toolkit for sim2real training and validation in Unity |
 | [Geonhee-LEE/mpc_ros](https://github.com/Geonhee-LEE/mpc_ros) | 970 | C++ | Differential Wheeled Mobile Robot - Nonlinear Model Predictive Control... |
 | [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) | 938 | Python | Official Repository for "DrEureka: Language Model Guided Sim-To-Real T... |
 | [uuvsimulator/uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) | 886 | Python | Gazebo/ROS packages for underwater robotics simulation |
 | [StanfordVL/iGibson](https://github.com/StanfordVL/iGibson) | 809 | Python | A Simulation Environment to train Robots in Large Realistic Interactiv... |
 | [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot) | 801 | - | 3D-printed open-source humanoid robot platform for sim-to-real and RL |
-| [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) | 796 | C++ | SAPIEN Embodied AI Platform |
+| [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) | 798 | C++ | SAPIEN Embodied AI Platform |
 | [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) | 790 | Python | TensorFlow Implementation for Computing a Semantically Segmented Bird'... |
-| [mithi/hexapod](https://github.com/mithi/hexapod) | 754 | JavaScript | Blazing fast hexapod robot simulator for the web. |
-| [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) | 594 | Python | PACE: A systematic approach for sim-to-real transfer of legged robots,... |
-| [Rhoban/onshape-to-robot](https://github.com/Rhoban/onshape-to-robot) | 579 | Python | Converting Onshape assembly to robot definition (URDF, SDF, MuJoCo) th... |
-| [RoboVerseOrg/Simulately](https://github.com/RoboVerseOrg/Simulately) | 548 | TypeScript | A universal summary of current robotics simulators |
-| [legubiao/quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control) | 545 | C++ | ROS2-Control implementations for Quadruped robots, include sim2real |
-| [spear-sim/spear](https://github.com/spear-sim/spear) | 532 | C++ | SPEAR: A Simulator for Photorealistic Embodied AI Research |
-| [unitreerobotics/unitree_sim_isaaclab](https://github.com/unitreerobotics/unitree_sim_isaaclab) | 516 | Python | The Unitree simulation environment built based on Isaac Lab |
-| [ROBOTIS-GIT/turtlebot3_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_simulations) | 515 | C++ | Simulations for TurtleBot3 |
+| [mithi/hexapod](https://github.com/mithi/hexapod) | 761 | JavaScript | Blazing fast hexapod robot simulator for the web. |
+| [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) | 614 | Python | PACE: A systematic approach for sim-to-real transfer of legged robots,... |
+| [Rhoban/onshape-to-robot](https://github.com/Rhoban/onshape-to-robot) | 585 | Python | Converting Onshape assembly to robot definition (URDF, SDF, MuJoCo) th... |
+| [RoboVerseOrg/Simulately](https://github.com/RoboVerseOrg/Simulately) | 549 | TypeScript | A universal summary of current robotics simulators |
+| [legubiao/quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control) | 546 | C++ | ROS2-Control implementations for Quadruped robots, include sim2real |
+| [spear-sim/spear](https://github.com/spear-sim/spear) | 540 | C++ | SPEAR: A Simulator for Photorealistic Embodied AI Research |
+| [unitreerobotics/unitree_sim_isaaclab](https://github.com/unitreerobotics/unitree_sim_isaaclab) | 522 | Python | The Unitree simulation environment built based on Isaac Lab |
+| [ROBOTIS-GIT/turtlebot3_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_simulations) | 517 | C++ | Simulations for TurtleBot3 |
 | [lihuang3/ur5_ROS-Gazebo](https://github.com/lihuang3/ur5_ROS-Gazebo) | 511 | Python | Universal Robot (UR5) Pick and Place Simulation in ROS-Gazebo with a U... |
-| [Patryk27/kartoffels](https://github.com/Patryk27/kartoffels) | 508 | - | a game where you're given a potato and your job is to implement a firm... |
-| [isaac-sim/IsaacLab-Arena](https://github.com/isaac-sim/IsaacLab-Arena) | 486 | Python | Isaac Lab - Arena is a robotics simulation framework that enhances NVI... |
-| [URLab-Sim/UnrealRoboticsLab](https://github.com/URLab-Sim/UnrealRoboticsLab) | 484 | C++ | A high-fidelity, open-source robotics simulator integrating Unreal Eng... |
-| [Bithack/principia](https://github.com/Bithack/principia) | 397 | C++ | Open source physics-based sandbox game with electronic circuitry, mech... |
+| [Patryk27/kartoffels](https://github.com/Patryk27/kartoffels) | 507 | - | a game where you're given a potato and your job is to implement a firm... |
+| [isaac-sim/IsaacLab-Arena](https://github.com/isaac-sim/IsaacLab-Arena) | 493 | Python | Isaac Lab - Arena is a robotics simulation framework that enhances NVI... |
+| [URLab-Sim/UnrealRoboticsLab](https://github.com/URLab-Sim/UnrealRoboticsLab) | 490 | C++ | A high-fidelity, open-source robotics simulator integrating Unreal Eng... |
+| [Bithack/principia](https://github.com/Bithack/principia) | 400 | C++ | Open source physics-based sandbox game with electronic circuitry, mech... |
 | [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python) | 388 | Python | Robotics Mathematical modeling and theory with Python (learning throug... |
-| [StoneT2000/lerobot-sim2real](https://github.com/StoneT2000/lerobot-sim2real) | 387 | Python | LeRobot sim2real code. Train in fast simulation and deploy visual poli... |
 
 ---
 
@@ -363,39 +363,39 @@
 | [googlecartographer/cartographer](https://github.com/cartographer-project/cartographer) | 7,789 | C++ | Cartographer is a system that provides real-time simultaneous localiza... |
 | [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | 4,546 | C++ | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Map... |
 | [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) | 4,139 | Python | Python package for the evaluation of odometry and SLAM |
-| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,863 | - | Tooling for professional robotic development in C++ and Python with a ... |
+| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,867 | - | Tooling for professional robotic development in C++ and Python with a ... |
 | [openstreetmap/iD](https://github.com/openstreetmap/iD) | 3,735 | JavaScript | 🆔 The easy-to-use OpenStreetMap editor in JavaScript. |
-| [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) | 3,180 | C++ | Universal grid map library for mobile robotic mapping |
+| [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) | 3,189 | C++ | Universal grid map library for mobile robotic mapping |
 | [luigifreda/pyslam](https://github.com/luigifreda/pyslam) | 3,118 | Python | pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocula... |
+| [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) | 2,998 | Python | :sunglasses: A curated list of robotics libraries and software |
 | [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam) | 2,987 | - | OpenVSLAM: A Versatile Visual SLAM Framework |
-| [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) | 2,984 | Python | :sunglasses: A curated list of robotics libraries and software |
 | [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam) | 2,702 | C++ | LSD-SLAM |
-| [ros-planning/navigation](https://github.com/ros-planning/navigation) | 2,661 | C++ | ROS Navigation stack.  Code for finding where the robot is and how it ... |
-| [henki-robotics/robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2) | 2,448 | C++ | Learn the basics of robotics through hands-on experience using ROS 2 a... |
+| [ros-planning/navigation](https://github.com/ros-planning/navigation) | 2,660 | C++ | ROS Navigation stack.  Code for finding where the robot is and how it ... |
+| [henki-robotics/robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2) | 2,480 | C++ | Learn the basics of robotics through hands-on experience using ROS 2 a... |
 | [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) | 2,366 | C++ | Advanced implementation of LOAM |
 | [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) | 2,245 | C++ | 3D LIDAR-based Graph SLAM |
-| [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) | 2,070 | - | A comprehensive list of Implicit Representations, NeRF and 3D Gaussian... |
+| [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) | 2,077 | - | A comprehensive list of Implicit Representations, NeRF and 3D Gaussian... |
 | [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera) | 2,035 | - | Index repo for Kimera code |
-| [ROBOTIS-GIT/turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3) | 2,015 | C++ | ROS packages for Turtlebot3 |
+| [ROBOTIS-GIT/turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3) | 2,018 | C++ | ROS packages for Turtlebot3 |
 | [ompl/ompl](https://github.com/ompl/ompl) | 1,965 | C++ | The Open Motion Planning Library (OMPL) |
-| [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) | 1,831 | - | This is a curated list of "Embodied AI or robot with Large Language Mo... |
-| [ANYbotics/elevation_mapping](https://github.com/ANYbotics/elevation_mapping) | 1,825 | C++ | Robot-centric elevation mapping for rough terrain navigation |
-| [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) | 1,727 | - | Roadmap to become a Visual-SLAM developer in 2026 |
+| [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) | 1,837 | - | This is a curated list of "Embodied AI or robot with Large Language Mo... |
+| [ANYbotics/elevation_mapping](https://github.com/ANYbotics/elevation_mapping) | 1,829 | C++ | Robot-centric elevation mapping for rough terrain navigation |
+| [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) | 1,735 | - | Roadmap to become a Visual-SLAM developer in 2026 |
 | [zchoi/Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) | 1,717 | - | This is a curated list of "Embodied AI or robot with Large Language Mo... |
-| [pypose/pypose](https://github.com/pypose/pypose) | 1,583 | Python | A library for differentiable robotics on manifolds. |
+| [pypose/pypose](https://github.com/pypose/pypose) | 1,586 | Python | A library for differentiable robotics on manifolds. |
 | [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) | 1,568 | - | A comprehensive list of Implicit Representations and NeRF papers relat... |
-| [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) | 1,327 | C++ | An optimal trajectory planner considering distinctive topologies for m... |
+| [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) | 1,329 | C++ | An optimal trajectory planner considering distinctive topologies for m... |
 | [pierrepault/probabilistic_robotics](https://github.com/pierrepault/probabilistic_robotics) | 1,318 | C++ | solution of exercises of the book "probabilistic robotics" |
 | [pptacher/probabilistic_robotics](https://github.com/pptacher/probabilistic_robotics) | 1,317 | C++ | solution of exercises of the book "probabilistic robotics" |
 | [pantor/ruckig](https://github.com/pantor/ruckig) | 1,144 | C++ | Motion Generation for Robots and Machines. Real-time. Jerk-constrained... |
-| [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) | 1,038 | Python | [TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model... |
+| [hanruihua/NeuPAN](https://github.com/hanruihua/NeuPAN) | 1,048 | Python | [TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model... |
 | [hyye/lio-mapping](https://github.com/hyye/lio-mapping) | 1,000 | C++ | Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mappi... |
-| [naturerobots/mesh_navigation](https://github.com/naturerobots/mesh_navigation) | 873 | C++ | The Mesh Navigation Stack: Efficient Mobile Robot Navigation in Uneven... |
-| [SteveMacenski/spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) | 844 | C++ | A new voxel layer leveraging modern 3D graphics tools to modernize nav... |
+| [naturerobots/mesh_navigation](https://github.com/naturerobots/mesh_navigation) | 877 | C++ | The Mesh Navigation Stack: Efficient Mobile Robot Navigation in Uneven... |
+| [SteveMacenski/spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) | 848 | C++ | A new voxel layer leveraging modern 3D graphics tools to modernize nav... |
 | [hungpham2511/toppra](https://github.com/hungpham2511/toppra) | 841 | Python | robotic motion planning library |
-| [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) | 773 | - | Useful links of different content related to AI, Computer Vision, and ... |
-| [vlmaps/vlmaps](https://github.com/vlmaps/vlmaps) | 711 | Python | [ICRA2023] Implementation of Visual Language Maps for Robot Navigation |
-| [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) | 706 | - | Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc... |
+| [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) | 776 | - | Useful links of different content related to AI, Computer Vision, and ... |
+| [vlmaps/vlmaps](https://github.com/vlmaps/vlmaps) | 712 | Python | [ICRA2023] Implementation of Visual Language Maps for Robot Navigation |
+| [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) | 707 | - | Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc... |
 | [jizhang-cmu/ground_based_autonomy_basic](https://github.com/jizhang-cmu/ground_based_autonomy_basic) | 704 | C++ | Autonomous Navigation and Collision Avoidance for Ground Robots |
 | [ChanganVR/awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) | 703 | - | Reading list for research topics in embodied vision |
 | [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | 683 | Matlab | MATLAB sample codes for mobile robot navigation |
@@ -409,43 +409,43 @@
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 24,485 | Python | The open source developer platform to build AI agents and models with ... |
 | [openai/evals](https://github.com/openai/evals) | 17,929 | Python | Evals is a framework for evaluating LLMs and LLM systems, and an open-... |
 | [opencv/cvat](https://github.com/cvat-ai/cvat) | 15,380 | Python | Annotate better with CVAT, the industry-leading data engine for machin... |
-| [mozilla/TTS](https://github.com/mozilla/TTS) | 10,161 | Jupyter Notebook | :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion... |
-| [RoboTwin-Platform/RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) | 2,598 | Python | RoboTwin 2.0 Offical Repo |
+| [mozilla/TTS](https://github.com/mozilla/TTS) | 10,164 | Jupyter Notebook | :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion... |
+| [RoboTwin-Platform/RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin) | 2,628 | Python | RoboTwin 2.0 Offical Repo |
 | [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) | 2,054 | JavaScript | Collaborate & label any type of data, images, text, or documents, in a... |
-| [m2n037/awesome-mecheng](https://github.com/m2n037/awesome-mecheng) | 1,626 | - | Awesome Mechanical Engineering Resources |
+| [m2n037/awesome-mecheng](https://github.com/m2n037/awesome-mecheng) | 1,635 | - | Awesome Mechanical Engineering Resources |
 | [uzh-rpg/rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) | 1,187 | Python | Toolbox for quantitative trajectory evaluation of VO/VIO |
 | [abisee/cnn-dailymail](https://github.com/abisee/cnn-dailymail) | 658 | Python | Code to obtain the CNN / Daily Mail dataset (non-anonymized) for summa... |
-| [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets) | 512 | - | A collection of useful datasets for robotics and computer vision |
+| [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | 595 | Python | LLM-as-a-Verifier is a general-purpose framework that provides fine-gr... |
+| [mint-lab/awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets) | 513 | - | A collection of useful datasets for robotics and computer vision |
 | [deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa) | 507 | Shell | This repository contains the NarrativeQA dataset. It includes the list... |
 | [askforalfred/alfred](https://github.com/askforalfred/alfred) | 489 | C | ALFRED - A Benchmark for Interpreting Grounded Instructions for Everyd... |
+| [allenai/vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness) | 465 | Python | One framework to evaluate any VLA model on any robot simulation benchm... |
 | [google-research-datasets/ToTTo](https://github.com/google-research-datasets/ToTTo) | 461 | - | ToTTo is an open-domain English table-to-text dataset with over 120,00... |
-| [allenai/vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness) | 450 | Python | One framework to evaluate any VLA model on any robot simulation benchm... |
-| [EmbodiedBench/EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) | 316 | Python | [ICML 2025 Oral] Official repo of EmbodiedBench,  a comprehensive benc... |
-| [OpenHelix-Team/RoboMemArena](https://github.com/OpenHelix-Team/RoboMemArena) | 316 | Python | RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark |
-| [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) | 312 | - | Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, a... |
-| [embodied-agent-interface/embodied-agent-interface](https://github.com/embodied-agent-interface/embodied-agent-interface) | 295 | Python | Embodied Agent Interface (EAI): Benchmarking LLMs for Embodied Decisio... |
+| [EmbodiedBench/EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) | 318 | Python | [ICML 2025 Oral] Official repo of EmbodiedBench,  a comprehensive benc... |
+| [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) | 313 | - | Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, a... |
+| [embodied-agent-interface/embodied-agent-interface](https://github.com/embodied-agent-interface/embodied-agent-interface) | 296 | Python | Embodied Agent Interface (EAI): Benchmarking LLMs for Embodied Decisio... |
 | [ori-mrg/robotcar-dataset-sdk](https://github.com/ori-mrg/robotcar-dataset-sdk) | 288 | MATLAB | Software Development Kit for the Oxford Robotcar Dataset |
-| [Gepetto/example-robot-data](https://github.com/Gepetto/example-robot-data) | 282 | Python | Set of robot URDFs for benchmarking and developed examples. |
+| [Gepetto/example-robot-data](https://github.com/Gepetto/example-robot-data) | 285 | Python | Set of robot URDFs for benchmarking and developed examples. |
 | [gundam-global-challenge/gundam_robot](https://github.com/gundam-global-challenge/gundam_robot) | 191 | Python | ROS packages for GUNDAM robots |
+| [OpenHelix-Team/RoboMemArena](https://github.com/OpenHelix-Team/RoboMemArena) | 185 | Python | RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark |
 | [InternRobotics/InternManip](https://github.com/InternRobotics/InternManip) | 175 | Python | An All-in-one robot manipulation learning suite for policy models trai... |
 | [google-research/robel](https://github.com/google-research/robel) | 150 | Python | ROBEL: Robotics Benchmarks for Learning with low-cost robots |
 | [nyu-mll/BBQ](https://github.com/nyu-mll/BBQ) | 138 | Python | Repository for the Bias Benchmark for QA dataset. |
-| [RoboMME/robomme_benchmark](https://github.com/RoboMME/robomme_benchmark) | 133 | Python | Benchmarking memory-augmented robotic generalist policies |
+| [RoboMME/robomme_benchmark](https://github.com/RoboMME/robomme_benchmark) | 137 | Python | Benchmarking memory-augmented robotic generalist policies |
 | [andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) | 124 | - | A curated list of packages and resources regarding the FIRST Robotics ... |
 | [TUM-ICS/BIRDy](https://github.com/TUM-ICS/BIRDy) | 117 | MATLAB | Benchmark for Identification of Robot Dynamics |
-| [suhaisheng/RoboSense](https://github.com/suhaisheng/RoboSense) | 114 | Python | RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perc... |
+| [suhaisheng/RoboSense](https://github.com/suhaisheng/RoboSense) | 115 | Python | RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perc... |
 | [robo-arena/roboarena](https://github.com/robo-arena/roboarena) | 110 | Python | Distributed, scalable benchmarking of generalist robot policies. |
 | [KavrakiLab/motion_bench_maker](https://github.com/KavrakiLab/motion_bench_maker) | 110 | C++ | Generate and benchmark datasets for robot manipulation problems |
 | [csiro-robotics/Wild-Places](https://github.com/csiro-robotics/Wild-Places) | 100 | Python | 🏞️ [IEEE ICRA2023]  The official repository for paper "Wild-Places: A ... |
 | [ricber/digital-agriculture-datasets](https://github.com/ricber/digital-agriculture-datasets) | 97 | - | Open datasets for training and benchmarking AI and robotic systems in ... |
 | [lbaa2022/LLMTaskPlanning](https://github.com/lbaa2022/LLMTaskPlanning) | 94 | Jupyter Notebook | LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied ... |
-| [Aryia-Behroziuan/neurons](https://github.com/Aryia-Behroziuan/neurons) | 91 | - | An ANN is a model based on a collection of connected units or nodes ca... |
+| [Aryia-Behroziuan/neurons](https://github.com/Aryia-Behroziuan/neurons) | 92 | - | An ANN is a model based on a collection of connected units or nodes ca... |
 | [shengyin1224/SafeAgentBench](https://github.com/shengyin1224/SafeAgentBench) | 74 | Python | Codes for paper "SafeAgentBench: A Benchmark for Safe Task Planning of... |
 | [StanfordVL/behavior](https://github.com/StanfordVL/behavior) | 69 | Python | Code to evaluate a solution in the BEHAVIOR benchmark: starter code, b... |
 | [Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking](https://github.com/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking) | 61 | Python | This is a robot project for television live. System will tracking the ... |
-| [intelligent-control-lab/spark](https://github.com/intelligent-control-lab/spark) | 58 | Python | A modular toolkit for benchmarking safe robotic control systems. |
+| [intelligent-control-lab/spark](https://github.com/intelligent-control-lab/spark) | 59 | Python | A modular toolkit for benchmarking safe robotic control systems. |
 | [York-SDCNLab/Ghost-DeblurGAN](https://github.com/York-SDCNLab/Ghost-DeblurGAN) | 55 | Python | This is a lightweight GAN developed for real-time deblurring. The mode... |
-| [ustc-flicar/ustc-flicar.github.io](https://github.com/ustc-flicar/ustc-flicar.github.io) | 49 | JavaScript | USTC FLICAR Dataset (IJRR 2023) 📊 Let’s explore the Embodied Intellige... |
 
 ---
 
@@ -456,43 +456,43 @@
 | [coqui-ai/TTS](https://github.com/coqui-ai/TTS) | 44,673 | Python | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in rese... |
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 44,075 | Go | :robot: The free, Open Source alternative to OpenAI, Claude and others... |
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 28,807 | C++ | Official source code of FreeCAD, a free and opensource multiplatform 3... |
-| [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | 5,034 | - | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
-| [cyberbotics/webots](https://github.com/cyberbotics/webots) | 4,467 | C++ | Webots Robot Simulator |
+| [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) | 5,051 | - | 🤖 Places where you can learn robotics (and stuff like that) online 🤖 |
+| [cyberbotics/webots](https://github.com/cyberbotics/webots) | 4,471 | C++ | Webots Robot Simulator |
 | [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) | 4,392 | C++ | An optimization-based multi-sensor state estimator |
 | [Microsoft/malmo](https://github.com/microsoft/malmo) | 4,251 | Java | Project Malmo is a platform for Artificial Intelligence experimentatio... |
-| [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) | 2,540 | C# | Central repository for tools, tutorials, resources, and documentation ... |
+| [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) | 2,544 | C# | Central repository for tools, tutorials, resources, and documentation ... |
 | [MicrosoftDocs/live-share](https://github.com/microsoft/live-share) | 2,362 | - | Real-time collaborative development from the comfort of your favorite ... |
-| [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) | 2,128 | - | The Robot Operating System Version 2.0 is awesome! |
+| [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2) | 2,129 | - | The Robot Operating System Version 2.0 is awesome! |
 | [googlecartographer/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) | 1,806 | C++ | Provides ROS integration for Cartographer. |
-| [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) | 1,659 | - | This is a list of awesome demos, tutorials, utilities and overall reso... |
-| [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) | 1,455 | - | A curated list of awesome links and software libraries that are useful... |
+| [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) | 1,665 | - | This is a list of awesome demos, tutorials, utilities and overall reso... |
+| [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) | 1,460 | - | A curated list of awesome links and software libraries that are useful... |
 | [ros-industrial/universal_robot](https://github.com/ros-industrial/universal_robot) | 1,373 | C++ | ROS-Industrial Universal Robots support (https://wiki.ros.org/universa... |
 | [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) | 1,294 | C++ | :taxi: Fast and robust clustering of point clouds generated with a Vel... |
 | [BR-IDL/PaddleViT](https://github.com/BR-IDL/PaddleViT) | 1,237 | Python | :robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models ... |
-| [dartsim/dart](https://github.com/dartsim/dart) | 1,160 | C++ | C++20 physics engine for robotics and animation with collision, constr... |
-| [msadowski/awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics) | 1,055 | - | A list of projects that were or will be featured in Weekly Robotics ne... |
-| [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) | 1,041 | C++ | CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure f... |
+| [dartsim/dart](https://github.com/dartsim/dart) | 1,162 | C++ | C++20 physics engine for robotics and animation with collision, constr... |
+| [msadowski/awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics) | 1,056 | - | A list of projects that were or will be featured in Weekly Robotics ne... |
+| [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) | 1,049 | C++ | CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure f... |
 | [neka-nat/cupoch](https://github.com/neka-nat/cupoch) | 1,038 | C++ | Robotics with GPU computing |
 | [RoseCityRobotics/ai-developer-resources](https://github.com/RoseCityRobotics/ai-developer-resources) | 766 | - | I am Duncan, a cofounder at Rose City Robotics. This public repository... |
 | [MapIV/eagleye](https://github.com/MapIV/eagleye) | 745 | C++ | Precise localization based on GNSS and IMU. |
 | [robot-descriptions/robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py) | 725 | Python | Access 175+ robot descriptions from the main Python robotics framework... |
-| [awesome-vacuum/awesome-vacuum](https://github.com/awesome-vacuum/awesome-vacuum) | 574 | - | A curated list of free and open source software and hardware to build ... |
-| [Zhefan-Xu/isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2) | 555 | Python | Unitree Go2 simulation platform for testing navigation, decision-makin... |
+| [awesome-vacuum/awesome-vacuum](https://github.com/awesome-vacuum/awesome-vacuum) | 575 | - | A curated list of free and open source software and hardware to build ... |
+| [Zhefan-Xu/isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2) | 558 | Python | Unitree Go2 simulation platform for testing navigation, decision-makin... |
 | [micro-ROS/micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino) | 541 | C | micro-ROS library for Arduino |
 | [KumarRobotics/ublox](https://github.com/KumarRobotics/ublox) | 519 | C++ | A driver for ublox gps |
-| [iit-DLSLab/Quadruped-PyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC) | 491 | Python | A model predictive controller for quadruped robots based on the single... |
-| [umfieldrobotics/OceanSim](https://github.com/umfieldrobotics/OceanSim) | 477 | Python | [IROS 2025] OceanSim: A GPU-Accelerated Underwater Robot Perception Si... |
+| [iit-DLSLab/Quadruped-PyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC) | 493 | Python | A model predictive controller for quadruped robots based on the single... |
+| [umfieldrobotics/OceanSim](https://github.com/umfieldrobotics/OceanSim) | 478 | Python | [IROS 2025] OceanSim: A GPU-Accelerated Underwater Robot Perception Si... |
 | [AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition) | 461 | C++ | Code and examples for Learning ROS for Robotics Programming - 2nd Edit... |
 | [frankaemika/franka_ros](https://github.com/frankarobotics/franka_ros) | 455 | C++ | ROS integration for Franka research robots |
 | [mikeferguson/robot_calibration](https://github.com/mikeferguson/robot_calibration) | 452 | C++ | Generic calibration for robots |
 | [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) | 445 | C++ | Create a rosbag from a given one, using a simple GUI |
-| [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) | 439 | TypeScript | URDF-Studio is a web-based visual URDF robot modeler with 3D workspace... |
+| [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) | 444 | TypeScript | URDF-Studio is a web-based visual URDF robot modeler with 3D workspace... |
 | [ms-iot/vscode-ros](https://github.com/ms-iot/vscode-ros) | 434 | TypeScript | Visual Studio Code extension for Robot Operating System (ROS) developm... |
-| [Unity-Technologies/ROS-TCP-Connector](https://github.com/Unity-Technologies/ROS-TCP-Connector) | 432 | C# |  |
+| [Unity-Technologies/ROS-TCP-Connector](https://github.com/Unity-Technologies/ROS-TCP-Connector) | 433 | C# |  |
 | [SeriousOldMan/Simulator-Controller](https://github.com/SeriousOldMan/Simulator-Controller) | 428 | AutoHotkey | A virtual AI-based pit crew  for Sim Racing. Use the latest GPT techno... |
 | [wenbowen123/iros20-6d-pose-tracking](https://github.com/wenbowen123/iros20-6d-pose-tracking) | 423 | Python | [IROS 2020] se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibratin... |
 | [ROBOTIS-GIT/OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) | 420 | C | Software for ROS Embedded board (a.k.a. OpenCR). OpenCR means Open-sou... |
-| [MRPT/mvsim](https://github.com/MRPT/mvsim) | 407 | C++ | Vehicle and mobile robotics simulator. C++ & Python API. Use it as a s... |
+| [MRPT/mvsim](https://github.com/MRPT/mvsim) | 408 | C++ | Vehicle and mobile robotics simulator. C++ & Python API. Use it as a s... |
 
 ---
 
@@ -513,18 +513,18 @@
 | [antonmedv/fx](https://github.com/antonmedv/fx) | 20,305 | Go | Terminal JSON viewer & processor |
 | [pybind/pybind11](https://github.com/pybind/pybind11) | 17,738 | C++ | Seamless operability between C++11 and Python |
 | [bcicen/ctop](https://github.com/bcicen/ctop) | 17,632 | Go | Top-like interface for container metrics |
-| [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 14,873 | - | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
+| [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 15,035 | - | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
 | [dask/dask](https://github.com/dask/dask) | 13,752 | Python | Parallel computing with task scheduling |
 | [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) | 11,135 | - | A curated list of deep learning resources for computer vision |
 | [libvips/libvips](https://github.com/libvips/libvips) | 11,124 | C | A fast image processing library with low memory needs. |
 | [nasa/fprime](https://github.com/nasa/fprime) | 10,784 | C++ | F´ - A flight software and embedded systems framework |
 | [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) | 8,493 | Python | An Extensible Toolkit for Finetuning and Inference of Large Foundation... |
 | [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) | 8,085 | Shell | Dockerized GitLab |
-| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | 7,608 | Jupyter Notebook | NVIDIA Isaac GR00T N1.6 -  A Foundation Model for Generalist Robots. |
+| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | 7,672 | Jupyter Notebook | NVIDIA Isaac GR00T N1.6 -  A Foundation Model for Generalist Robots. |
 | [deepmind/lab](https://github.com/google-deepmind/lab) | 7,332 | C | A customisable 3D platform for agent-based AI research |
-| [MineDojo/Voyager](https://github.com/MineDojo/Voyager) | 7,064 | JavaScript | An Open-Ended Embodied Agent with Large Language Models |
+| [MineDojo/Voyager](https://github.com/MineDojo/Voyager) | 7,081 | JavaScript | An Open-Ended Embodied Agent with Large Language Models |
 | [microsoft/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples) | 6,791 | Python | Example models using DeepSpeed |
-| [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) | 6,750 | - | A list of awesome Robotics resources |
+| [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) | 6,763 | - | A list of awesome Robotics resources |
 | [gopasspw/gopass](https://github.com/gopasspw/gopass) | 6,727 | Go | The slightly more awesome standard unix password manager for teams |
 | [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) | 6,205 | - | Recurrent Neural Network - A curated list of resources dedicated to RN... |
 | [Kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) | 6,199 | - | A list of awesome Robotics resources |
@@ -564,4 +564,4 @@ git clone https://github.com/lllray/awesome-embodied-a.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-07-17 19:32:01</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-07-24 19:35:01</sub></p>
