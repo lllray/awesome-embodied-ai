@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-11",
+  "total_skills": 4073,
+  "total_stars": 2744409,
+  "new_today": 40,
+  "top_gainers": [
+    {
+      "name": "pollen-robotics/microduck",
+      "stars": 8084,
+      "delta": 897,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "stars": 10801,
+      "delta": 572,
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots."
+    },
+    {
+      "name": "mudler/LocalAI",
+      "stars": 44075,
+      "delta": 544,
+      "url": "https://github.com/mudler/LocalAI",
+      "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+    },
+    {
+      "name": "RLinf/RLinf",
+      "stars": 5086,
+      "delta": 358,
+      "url": "https://github.com/RLinf/RLinf",
+      "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI"
+    },
+    {
+      "name": "PhyAgentOS/PhyAgentOS",
+      "stars": 1325,
+      "delta": 306,
+      "url": "https://github.com/PhyAgentOS/PhyAgentOS",
+      "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows."
+    },
+    {
+      "name": "air-embodied-brain/Zetta-Embodiment",
+      "stars": 992,
+      "delta": 247,
+      "url": "https://github.com/air-embodied-brain/Zetta-Embodiment",
+      "description": "Zetta is an efficient closed-loop embodied harness for self-evolving physical intelligence. It evolves code-based runtime critics and recovery skills online while keeping the base policy frozen. Project Page: https://air-embodied-brain.github.io/zetta/"
+    },
+    {
+      "name": "robocurve/inspect-robots",
+      "stars": 429,
+      "delta": 227,
+      "url": "https://github.com/robocurve/inspect-robots",
+      "description": "Evaluation framework for VLA / physical-AI models: define a benchmark once, run any policy on any robot or sim. (The Inspect AI for robotics.)"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": 27411,
+      "delta": 205,
+      "url": "https://github.com/huggingface/lerobot",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "asimovinc/asimov-v1",
+      "stars": 569,
+      "delta": 205,
+      "url": "https://github.com/asimovinc/asimov-v1",
+      "description": "v1 of Asimov, an open-source humanoid robot"
+    },
+    {
+      "name": "TianxingChen/Embodied-AI-Guide",
+      "stars": 15921,
+      "delta": 136,
+      "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+      "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide"
+    },
+    {
+      "name": "llm-as-a-verifier/llm-as-a-verifier",
+      "stars": 3208,
+      "delta": 126,
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+      "description": "LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medical agentic benchmarks."
+    },
+    {
+      "name": "PhyAgentOS/PhyAgentOS-core",
+      "stars": 1862,
+      "delta": 117,
+      "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+      "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows."
+    },
+    {
+      "name": "Project-N-E-K-O/N.E.K.O",
+      "stars": 2850,
+      "delta": 112,
+      "url": "https://github.com/Project-N-E-K-O/N.E.K.O",
+      "description": "N.E.K.O. — A proactive, multi-modal AI companion featuring 24/7 ambient awareness, agent capability and an embodied emotional engine."
+    },
+    {
+      "name": "AshishA26/Orion-Quadruped",
+      "stars": 128,
+      "delta": 102,
+      "url": "https://github.com/AshishA26/Orion-Quadruped",
+      "description": "🐕 Orion is a ROS2-driven, 12-DOF quadruped robot dog that I designed, built, and programmed from scratch."
+    },
+    {
+      "name": "RLinf/RPent",
+      "stars": 482,
+      "delta": 88,
+      "url": "https://github.com/RLinf/RPent",
+      "description": "RPent: Agentic Infrastructure for the Physical World"
+    },
+    {
+      "name": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
+      "stars": 398,
+      "delta": 84,
+      "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
+      "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development."
+    },
+    {
+      "name": "rahuloraj/Robotic-Arm---Gesture-Controlled",
+      "stars": 100,
+      "delta": 84,
+      "url": "https://github.com/rahuloraj/Robotic-Arm---Gesture-Controlled",
+      "description": "Gesture-controlled robotic arm with pick-and-place functionality, utilizing a sensor-equipped glove for intuitive control, and outlines its hardware and software setup, testing procedures, and future 4-link expansion."
+    },
+    {
+      "name": "dorianborian/sesame-robot",
+      "stars": 4372,
+      "delta": 80,
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "description": "An open and affordable mini quadruped robot based on ESP32."
+    },
+    {
+      "name": "dexmal/opendw",
+      "stars": 325,
+      "delta": 80,
+      "url": "https://github.com/dexmal/opendw",
+      "description": "An Open-Source World Model for Action-Conditioned Embodied Intelligence."
+    },
+    {
+      "name": "ppsdk/Embodied-AI-Start",
+      "stars": 179,
+      "delta": 80,
+      "url": "https://github.com/ppsdk/Embodied-AI-Start",
+      "description": ""
+    },
+    {
+      "name": "Octoday-Hub/Embodied-AI",
+      "stars": 2497,
+      "delta": 67,
+      "url": "https://github.com/Octoday-Hub/Embodied-AI",
+      "description": "星期八 Octoday 「具身智能知识索引与产业地图」"
+    },
+    {
+      "name": "isaac-sim/IsaacLab",
+      "stars": 8104,
+      "delta": 65,
+      "url": "https://github.com/isaac-sim/IsaacLab",
+      "description": "Unified framework for robot learning built on NVIDIA Isaac Sim"
+    },
+    {
+      "name": "Genesis-Embodied-AI/genesis-world",
+      "stars": 29933,
+      "delta": 61,
+      "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
+      "description": "A generative world for general-purpose robotics & embodied AI learning."
+    },
+    {
+      "name": "Rhoban/microban",
+      "stars": 335,
+      "delta": 59,
+      "url": "https://github.com/Rhoban/microban",
+      "description": "Microban is an affordable, fully 3D-printable, and 100% open-source humanoid robot. Powered by a Raspberry Pi Zero 2W and 19 Dynamixel servomotors, it serves as an accessible DIY platform for learning, experimentation, and research in robotics."
+    },
+    {
+      "name": "NVIDIA/skills",
+      "stars": 3258,
+      "delta": 57,
+      "url": "https://github.com/NVIDIA/skills",
+      "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end."
+    },
+    {
+      "name": "mujocolab/mjlab",
+      "stars": 3039,
+      "delta": 56,
+      "url": "https://github.com/mujocolab/mjlab",
+      "description": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research."
+    },
+    {
+      "name": "Noietch/EVA-CLIENT",
+      "stars": 184,
+      "delta": 53,
+      "url": "https://github.com/Noietch/EVA-CLIENT",
+      "description": "EVA-Client: A Unified Framework for Deployment, Evaluation, and Data Collection on Real Robots"
+    },
+    {
+      "name": "leggedrobotics/pace-sim2real",
+      "stars": 742,
+      "delta": 50,
+      "url": "https://github.com/leggedrobotics/pace-sim2real",
+      "description": "PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders."
+    },
+    {
+      "name": "lobehub/awesome-rsi",
+      "stars": 134,
+      "delta": 49,
+      "url": "https://github.com/lobehub/awesome-rsi",
+      "description": "A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety."
+    },
+    {
+      "name": "facebookresearch/project_superdex",
+      "stars": 632,
+      "delta": 48,
+      "url": "https://github.com/facebookresearch/project_superdex",
+      "description": "SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and additional capabilities planned for future releases."
+    },
+    {
+      "name": "NVIDIA/Isaac-GR00T",
+      "stars": 8046,
+      "delta": 46,
+      "url": "https://github.com/NVIDIA/Isaac-GR00T",
+      "description": "NVIDIA Isaac GR00T N1.6 -  A Foundation Model for Generalist Robots."
+    },
+    {
+      "name": "datawhalechina/dive-into-embodied-ai",
+      "stars": 436,
+      "delta": 45,
+      "url": "https://github.com/datawhalechina/dive-into-embodied-ai",
+      "description": "面向求职与转行的具身智能开源实践教程，用基础知识打底、项目实践贯穿、求职能力收口，帮助学习者从零构建具身智能项目，积累真实工程经验。在线学习网址：https://datawhalechina.github.io/dive-into-embodied-ai"
+    },
+    {
+      "name": "omnilink-tech/omnisim",
+      "stars": 163,
+      "delta": 45,
+      "url": "https://github.com/omnilink-tech/omnisim",
+      "description": "Open-source robotics simulator for coding agents: HTTP/JSON + MCP control, Newton physics, wgpu rendering, ROS 2, and reproducible benchmarks."
+    },
+    {
+      "name": "rokbenko/quackd",
+      "stars": 189,
+      "delta": 44,
+      "url": "https://github.com/rokbenko/quackd",
+      "description": "🦆🧠 Give your small robot a brain. Tell a Microduck, an Open Duck Mini you built yourself, a Reachy Mini, a LeRobot arm or any ROS base what you want in human language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, memory between runs, flocks."
+    },
+    {
+      "name": "PetoiCamp/OpenCat-Quadruped-Robot",
+      "stars": 5299,
+      "delta": 43,
+      "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+      "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development."
+    },
+    {
+      "name": "RealXiaoze/humanoid-motion-intelligence",
+      "stars": 526,
+      "delta": 43,
+      "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
+      "description": "人形机器人运动智能论文、开源项目、产业与求职知识库"
+    },
+    {
+      "name": "Roboparty/roboto_origin",
+      "stars": 2433,
+      "delta": 42,
+      "url": "https://github.com/Roboparty/roboto_origin",
+      "description": "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人"
+    },
+    {
+      "name": "NVlabs/GR00T-WholeBodyControl",
+      "stars": 3559,
+      "delta": 39,
+      "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+      "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC"
+    },
+    {
+      "name": "NVIDIA/warp",
+      "stars": 7106,
+      "delta": 32,
+      "url": "https://github.com/NVIDIA/warp",
+      "description": "A Python framework for GPU-accelerated simulation, robotics, and machine learning."
+    },
+    {
+      "name": "RoboTwin-Platform/RoboTwin",
+      "stars": 2842,
+      "delta": 32,
+      "url": "https://github.com/RoboTwin-Platform/RoboTwin",
+      "description": "RoboTwin 2.0 Offical Repo"
+    },
+    {
+      "name": "Lifelong-Robot-Learning/LIBERO",
+      "stars": 2304,
+      "delta": 32,
+      "url": "https://github.com/Lifelong-Robot-Learning/LIBERO",
+      "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning"
+    },
+    {
+      "name": "Kitjesen/ame2",
+      "stars": 187,
+      "delta": 32,
+      "url": "https://github.com/Kitjesen/ame2",
+      "description": "AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding (arXiv:2601.08485) — standalone PyTorch implementation for ANYmal-D"
+    },
+    {
+      "name": "kiloreux/awesome-robotics",
+      "stars": 7038,
+      "delta": 31,
+      "url": "https://github.com/kiloreux/awesome-robotics",
+      "description": "A list of awesome Robotics resources"
+    },
+    {
+      "name": "mithi/robotics-coursework",
+      "stars": 5226,
+      "delta": 31,
+      "url": "https://github.com/mithi/robotics-coursework",
+      "description": "🤖 Places where you can learn robotics (and stuff like that) online 🤖"
+    },
+    {
+      "name": "leggedrobotics/rsl_rl",
+      "stars": 2977,
+      "delta": 31,
+      "url": "https://github.com/leggedrobotics/rsl_rl",
+      "description": "A fast and simple implementation of learning algorithms for robotics."
+    },
+    {
+      "name": "haosulab/ManiSkill",
+      "stars": 2957,
+      "delta": 31,
+      "url": "https://github.com/haosulab/ManiSkill",
+      "description": "SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc."
+    },
+    {
+      "name": "xxzcc/Awesome-Credit-Assignment-in-LLM-RL",
+      "stars": 270,
+      "delta": 31,
+      "url": "https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL",
+      "description": "Curated papers, taxonomy, benchmarks, and decision guides for credit assignment in reasoning and agentic LLM reinforcement learning."
+    },
+    {
+      "name": "Argo-Robot/foundation_models",
+      "stars": 176,
+      "delta": 31,
+      "url": "https://github.com/Argo-Robot/foundation_models",
+      "description": "Overview about state-of-art imitation learning techniques for robotic manipulation, enabling generalization across diverse tasks and environments."
+    },
+    {
+      "name": "Genesis-Embodied-AI/Genesis",
+      "stars": 28600,
+      "delta": 29,
+      "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+      "description": "A generative world for general-purpose robotics & embodied AI learning."
+    },
+    {
+      "name": "real-stanford/transformer-transformer",
+      "stars": 159,
+      "delta": 28,
+      "url": "https://github.com/real-stanford/transformer-transformer",
+      "description": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design"
+    }
+  ]
+}
